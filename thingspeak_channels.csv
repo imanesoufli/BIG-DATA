@@ -1,0 +1,1544 @@
+﻿N,Page,ID,Name,Author,Description,Tags,Sensors
+1,1,624218,af104-uwz,griesu62,Ultraschall-Wasser-Zähler,['af104-uwz'],Unknown
+2,1,1785844,Wind Power Smart Mon...,mwa0000022903516,This channel is used to monitor the wind speed and carry out analysis on the effect of all these parameters on wind turbine power generation,"['wind power', 'wind speed']",power
+3,1,838448,DTT,chrisyuk,DTT stream bitrate analysis,"['dvb-t', 'freeview', 'dvb', 'dtt']",Unknown
+4,1,2725739,WasserstandAmUfer,mwa0000035819954,Wasserstand im Gully unter der Tiefgarage in Hafen 4 / Ufer 8,"['dresden', 'uferstraße', 'hafenstraße', 'gulli', 'tiefgarage', 'wasserstand', 'elbe', 'pegel', 'regen', 'elbpegel']",Unknown
+5,1,2862014,Power Grid Smart Mon...,mwa0000023143801,This channel is used to monitor the grid frequency and voltage and carry out analysis on the effect of the parameter in power quality. Source Data Channel ID: 2334377,"['monitoring', 'power', 'voltage']","voltage, power"
+6,1,2057381,Wind and Solar Power...,mwa0000019059637,"Channel is used to monitor wind and solar power, and is also capable of using wind speed to calculate wind power and voltage to calculate the power output of both the wind and solar sources.","['wind power', 'solar power', 'wind speed']","voltage, power"
+7,1,357142,Air quality with SDS011,tthosta,"Location: Germany (BW); 
+Measurement of air quality with SDS011 sensor and raspberry pi.","['air quality', 'sds011', 'pm2.5', 'pm10', 'raspberry pi', 'bme280', 'temperature', 'pressure', 'humidity']","temperature, temp, humidity, bme280, pressure, air quality"
+8,1,14578,IMP Temp Sensor - 15...,swharper,Electric IMP LM34 temp sensor,['lm34 temp sensor'],temp
+9,1,3180919,Habitat no. 1,mwa0000039736912,"Projekt edukacyjny Fundacji ORLEN im. Ignacego Łukasiewicza ""Inżynierowie Przyszłości"" Temat projektu: Kosmiczny habitat – badania naturalnych metod redukcji CO₂ w budynkach użytkowych. Autor: Weronika Pawłowska; Mentor: Paweł Derwich; ZSMEiE Toruń",['#inzynierowieprzyszlosci'],Unknown
+10,1,3265977,C_CyberPhysics_Weather,mwa0000040475731,weather station for vt lab,"['temp', 'humidity']","temp, humidity"
+11,1,3265972,C_Cyberphysics_Weather,mwa0000040475766,weather station for VT lab,"['temp', 'humidity']","temp, humidity"
+12,1,3265966,C_cyberphysics_Weather,mwa0000021469669,weather station for vt lab,"['temp', 'humity']",temp
+13,1,3264079,Wasterminate Dashboard,mwa0000040461720,The monitoring platform for the Arduino-based and IoT-intergated smart waste bin. Data analytics available here.,['ncshs'],Unknown
+14,1,1350261,CO2 Measurement,tthosta,"Location: Germany (BW); 
+Measurement of air quality with  ccs811 sensor and raspberry pi.","['raspberry pi', 'bme280', 'temperature', 'pressure', 'humidity', 'ds18b20', 'ccs811', 'mh-z19']","temperature, temp, humidity, bme280, pressure, air quality"
+15,1,3264568,JENSKI'S RAS CONTROLLER,mwa0000040465240,PH Sensor data,['kidlat'],Unknown
+16,2,3232826,Weather,CodeCarter,Testing phase of Project Zeus will over see all environmental metrics.,"['weather', 'environment', 'data']",Unknown
+17,2,3264030,Estación - Esquipula...,mwa0000040103626,"Estación al servicio  de la comuidad de Esquipulas, donada y diseñada por el ingeniero Marlon A. Kuckling","['esquipulas', 'clima', 'kuckling']",Unknown
+18,2,3225843,Estación Gualán - Ku...,mwa0000040103626,"This project is a solar-powered weather station developed to monitor the extreme microclimates of Gualán, Zacapa. It provides real-time local data for agricultural and community safety, monitoring heat index trends and variable weather patterns in Guatema","['gualan', 'zacapa', 'weather station', 'esp32', 'iot']",power
+19,2,3263883,SeniorGuard_Wearable...,Halberch,"Sistema autónomo de teleasistencia mediante dispositivo wearable para la tercera edad.
+Este canal recibe datos en tiempo real de constantes vitales (frecuencia cardíaca, SpO2, presión arterial) y monitorización de movimiento (acelerometría).","['salud', 'geriatria', 'caidas', 'wearable', 'emergencia', 'teleasistencia', 'iot']",Unknown
+20,2,3262135,SeniorGuard_Wearable...,Halberch,"Sistema autónomo de teleasistencia mediante dispositivo wearable para la tercera edad.
+Este canal recibe datos en tiempo real de constantes vitales (frecuencia cardíaca, SpO2, presión arterial) y monitorización de movimiento (acelerometría).","['salud', 'geriatria', 'caidas', 'wearable', 'emergencia', 'teleasistencia', 'iot']",Unknown
+21,2,1622086,Wetter Hennesee,dl8dbn,Temperatursensor LoraWAN Hennesee,"['hennesee', 'amateurfunk sauerland', 'friedensglocken']",temp
+22,2,2723786,æ_datalog_01,acusticæscolar,"datalogger with ESP32
+Senseair S8 / BME680 / BH170/PMS7003/ I2C Decibel Sound Level Meter Module","['datalogger', 'acusticaescolar', 'confort360']",sound
+23,2,271958,Wetterstation Meschede,dl8dbn,Wetterstation mit ESP 8266,"['wetterstation', 'meschede', 'sauerland']",Unknown
+24,2,2927027,EstacioPobleEstany,mwa0000037598790,Estació meteorològica pública a l'Estany,['weather station estany'],Unknown
+25,2,2462841,Solar System Monitoring,mwa0000029769359,This channel aims to monitor the performance of a mini solar panel system and its capability in power and energy generation to meet load demands.,"['monitoring', 'solar power', 'power generation', 'energy', 'solar', 'load']","power, energy"
+26,2,701593,Des Gartenimkers Sto...,jokuder,Beelogger #1,['beelogger'],Unknown
+27,2,1220825,Lampotila,mwa0000020240855,Seurattavat lampotilat,"['m1', 'm2', 'm3', 'm4', 'm5', 'm6', 'm7', 'm8']",Unknown
+28,2,694112,MP_SMOG_Nettigo,misiopie,Nettigo Luftdaten-like SMOG sensor,"['luftdaten', 'nettigo']",Unknown
+29,2,938453,Lämpötilat Alakerta,mwa0000017101863,Lämpötilat Röykkä,['temperature'],"temperature, temp"
+30,2,424836,Wondecla Power,thingspeak1953,"Off Grid Solar & Wind system.
+15 min average readings plotted here.
+5 min readings available at PVOutput.","['wondecla', 'solar', 'wind', 'off grid']",Unknown
+31,3,678821,Hive Monitor,awround,Bee hive monitor,"['beehive', 'hive', 'monitor']",Unknown
+32,3,1677046,Temperature Sensor,smarthsalaria,LABMST DIOT LAB 4538,"['matlab', 'api']",Unknown
+33,3,3147069,Dew Point Measurement,khWon25,"온도와 습도를다른 채널에서 읽어와 이슬점을 계산, 기록","['korea', 'inu', 'dew point']",Unknown
+34,3,2601398,IOT PLANT MONITORING...,mwa0000033944826,an iot plant monitoring device,"['iot', 'plant', 'sensor', 'monitoring']",Unknown
+35,3,8203,Simba wa Yuda water ...,TonyZurolo,Water Level Sensor at Simba wa Yuda academy in Tanzania,['mobiledata'],water
+36,3,1807857,Paul's Test,mwa0000026824699,Training setup,['weather'],rain
+37,3,582000,Chiara's Tulipano,charli0d,Those are the marvelous Chiara's Tulips!!,"['dew', 'sensor', 'humidity', 'temperature']","temperature, temp, humidity"
+38,3,3224421,Ulkoilma Somero,mwa0000040092407,Outside temperature and humidity,"['somero', 'ulkoilma', 'lämpötila', 'kosteus', 'air', 'humidity', 'temperature', 'finland', 'suomi']","temperature, temp, humidity"
+39,3,1061276,Hamster Wheel,mwa0000018515788,What is Paddy up to  when we're not watching?,"['hamster', 'raspberry pi']",Unknown
+40,3,957670,Bienenwaage Frauenberg,mwa0000017249719,Frauenberg/Brunn,['beelogger'],Unknown
+41,3,951795,Medida de Punto de R...,profedetecno,Utiliza los datos ambientales para determinar el punto de rocío.,"['punto de rocío', 'temperatura', 'humedad', 'san vicente', 'profedetecno']",temp
+42,3,518150,Data test channel,tthosta,Location: Germany (BW);,['test data'],Unknown
+43,3,990603,HEHA Wellhouse 2,mwa0000017463963,"Water usage data, alarm conditions","['heha', 'wellhouse']",water
+44,3,3269141,sistmeas embebidos,mwa0000040503148,"En este canal se muestra la temperatura,","['temperatura', 'humedadm sistemas embebidos', 'it cuauta', 'tecnm']",temp
+45,3,3269138,Sistemas Embebidos,alfre2alcazar,"En este canal se muestra la tempertaura y la humedad de un DHT22/DHT11, de la materia de sistemas embebidos","['temperatura', 'humedad', 'sistemas embebidos', 'it cuautla', 'tecnm']","temp, dht11, dht22"
+46,4,3269139,Sistemas Embebidos,mwa0000017533417,"En este canal se muestra la temperatura y humedad de un DHT22/DHT11, de la materia de sistemas embebidos","['temperatura', 'humedad', 'sistemas embebidos', 'it cuautla', 'tecnm']","temp, dht11, dht22"
+47,4,3269140,Sistemas Embebidos,mwa0000040503142,en este canal se muestra la temperatura y la humedad de un DHT11.,"['temperatura', 'humedad', 'sistemas embebidos', 'it cuautla', 'tecnm']","temp, dht11"
+48,4,3203205,ArduinoAirMonitor Gd...,mwa0000039919237,Monitor ambientale basato su Arduino,"['arduino', 'airmonitor', 'dht11', 'ambient', 'temperature', 'humidity', 'particle', 'pm10', 'pm1', 'pm25']","temperature, temp, humidity, dht11"
+49,4,2502187,Octopus Agile,mwa0000023558498,"Agile (South Scotland) cost in pence.
+Uploaded by agile2TS on 201","['agile octopus', 'octopus agile', 'south scotland']",Unknown
+50,4,2546321,São Miguel do Oeste ...,mwa0000033418704,"Teste com Esp32;
+Voltagem e umidade do solo","['arduino', 'nodemcu', 'temperatura', 'umidade', 'são miguel do oeste', 'sc', 'santa catarina', 'clima', 'weather', 'tempo', 'meteorologia', 'esp32']","temp, voltage"
+51,4,3269038,Intelligent Predicti...,mwa0000038269510,"IoT Based ESP32 Robot with QR Maintenance Monitoring, DHT11 Sensor, IR Sensor and Cloud Live Dashboard for Industry 4.0","['esp32', 'robotics', 'iot', 'industry4.0', 'predictive maintenance', 'qr monitoring']",dht11
+52,4,53435,Klaipeda1,klaipeda01,"ESP-01.1: 1st floor, outside","['esp8266', 'homes-smart']",Unknown
+53,4,386505,BatteryPredict24hours,cjstapels,Deep learning Time series prediction data,"['predict', 'predict battery', 'battery']",Unknown
+54,4,460826,GRIN 460826,grin-mpx,BG,['bg'],Unknown
+55,4,1632148,EsP DataLog,HaZimOviC,GPS-02,"['esp', 'automation']",gps
+56,4,3254668,impoz_meteo,mwa0000038786849,projecto de final de curso dos estudantes do impoz,"['esp32', 'iot', 'weathervou']",Unknown
+57,4,1677189,CPAM,mwa0000017972110,CPAM personal aerosol monitor,['pm'],Unknown
+58,4,2590882,Estação Meteorológica,Amsatlink,"Estação Meteorológica.
+Localizada no bairro Aeroporto na cidade de Itaúna MG.",['uninter; engenharia elétrica; py4roe; itaúna; minas gerais; mg; brasil; brazil'],Unknown
+59,4,3089005,IoT Sensors (NARO),alfre2alcazar,"This channel shows Temperature & Humidity, from DHT22 or DHT21 sensors.","['tempertaure', 'humidity', 'iot', 'esp32', 'tecnológico de cuautla']","temperature, temp, humidity, dht22"
+60,4,90636,Data Collection Test,cerberus88,"Using Raspberry pi zero w to monitor temperature conditions within a room. Sensor is DHT22, software is python, samples taken every 15 minutes, pi zero sleeps between readings to reduce energy usage. (CBX3)","['raspberry pizero w', 'python.', 'uk realtime', 'data collection test using dht22']","temperature, temp, dht22, energy"
+61,5,3237786,Habitat no. 2  / Syn...,mwa0000039736912,"Projekt edukacyjny Fundacji ORLEN im. Ignacego Łukasiewicza ""Inżynierowie Przyszłości"" 
+Temat projektu: Kosmiczny habitat – badania naturalnych metod redukcji CO₂ w budynkach użytkowych.
+Autor: Weronika Pawłowska;
+Mentor: Paweł Derwich;
+ZSMEiE Toruń",['#inzynierowieprzyszlosci'],Unknown
+62,5,3237788,Habitat no. 3 / Aspl...,mwa0000039736912,"Projekt edukacyjny Fundacji ORLEN im. Ignacego Łukasiewicza ""Inżynierowie Przyszłości"" Temat projektu: Kosmiczny habitat – badania naturalnych metod redukcji CO₂ w budynkach użytkowych. Autor: Weronika Pawłowska; Mentor: Paweł Derwich; ZSMEiE Toruń",['#inzynierowieprzyszlosci'],Unknown
+63,5,3245015,Sensor5-CO2,mwa0000040317596,Online Sensor of CO2,"['sensor5-co2', 'temperature']","temperature, temp, co2"
+64,5,3264806,Datos de Radiaciòn_Q...,mwa0000038368939,Es el proyecto de loT es de fin de curso,"['lot', 'esp32', 'guva-s12sd', 'arduino']",Unknown
+65,5,3090955,Lugard Datalogger,mwa0000038940666,Data logging for weather station,['weather'],Unknown
+66,5,3265999,c_cyberphysics_weather,mwa0000040475720,weather station for vt lab,"['temp', 'humidity']","temp, humidity"
+67,5,3265969,c_cyberphysics_weather,mwa0000040475718,weather station for vt lab,"['temp', 'humidity']","temp, humidity"
+68,5,3265968,c_cyberphysics_weather,mwa0000040475712,weather station for vt lab,['temp.humidity'],"temp, humidity"
+69,5,1292004,EDM ROOM,mwa0000018733998,EFICIENCIA EN MAQUINAS,['uptime'],Unknown
+70,5,3264998,dillon,mwa0000040415981,job sheet 10,['rr2501p'],Unknown
+71,5,3264993,kartina,mwa0000040418123,iot,['rr2501p'],Unknown
+72,5,3263935,Meteo Station Dioni-...,mwa0000040460295,"IoT Weather Station with ESP32, DHT22, and BMP280","['esp32', 'weather station', 'pikermi', 'bmp280', 'dht22']","dht22, bmp280"
+73,5,3254692,ProyectoFinal2026,mwa0000026599558,Es el proyecto IoT es de fin de curso,"['iot', 'esp32', 'dht-11', 'arduino']",Unknown
+74,5,2992741,Sensor1-CO2,mwa0000038005020,Online Sensor of CO2,"['temperature', 'sensor1-co2']","temperature, temp, co2"
+75,5,3124868,Sensor2-CO2,mwa0000038005020,Online Sensor of CO2,"['sensor2-co2', 'temperature']","temperature, temp, co2"
+76,6,3124899,Sensor3-CO2,mwa0000038005020,Online Sensor of CO2,"['sensor3-co2', 'temperature']","temperature, temp, co2"
+77,6,3124907,Sensor4-CO2,mwa0000038005020,Online Sensor of CO2,"['sensor4-co2', 'temperature']","temperature, temp, co2"
+78,6,3264573,Proyectofinal2026,mwa0000040465350,es el proyecto de IoT es de fin de curso,"['iot', 'esp32', 'dht-11 arduino']",Unknown
+79,6,3254694,ProyectoFinal2026,mwa0000038368911,Es el proyecto de loT es de fin de curso,"['lot', 'esp32', 'dht-11', 'arduino']",Unknown
+80,6,3254696,ProyectoFinal2026,mwa0000038368960,Es el proyecto de loT es de fin de curso,"['iot', 'esp32', 'dht-11', 'arduino']",Unknown
+81,6,3037047,Proyecto Maestría - ...,mwa0000038369070,Este canal recibirá datos de temperatura y humedad en tiempo real de la ciudad de Tacna,"['iot', 'temperatura', 'humedad', 'tacna', 'dht11', 'esp8266']","temp, dht11"
+82,6,265181,MERLIN GARDEN,nfullalove1954,"Outdoor temperature & barometric pressure.  
+South Cheshire - England.  
+All values updated at 30 minute intervals.",['merlingarden'],"temperature, temp, pressure"
+83,6,66609,https://www.belichie.ru,t9619980,Температура,['temp'],temp
+84,6,2294115,F30 (25-30),lm6369243,DEMO,['tag'],Unknown
+85,6,898450,C7 FL12  Soil moist....,jorolv,Testing soil moisture sensors,['jkl'],"soil, moisture"
+86,6,3244898,Air Quality Project,mwa0000040315261,This project is created to measure the Air Quality near Sydney Area for Research.,"['sydney', 'kings rd']",air quality
+87,6,3263849,SeniorGuard_Analisis...,Halberch,"Este canal centraliza la inteligencia del sistema SeniorGuard, utilizando algoritmos de MATLAB Analysis para procesar constantes vitales y detectar caídas mediante la fusión de datos de múltiples pacientes.","['iot', 'healthcare', 'matlab', 'seniorguard', 'teleasistencia', 'fall detection', 'smart health', 'triaje.']",Unknown
+88,6,3263824,IoT Weather & Gas Mo...,mwa0000034907426,"ESP32-based Weather Station with Toxic Gas Detection using DHT11, MQ2, MQ7","['esp32', 'iot', 'weather station', 'gas detection', 'dht11', 'mq2', 'mq7', 'air quality monitoring']","dht11, gas, mq2, air quality"
+89,6,3263293,Proyecto IoT 2mnt Co...,mwa0000040454522,Recogida de datos de los sensores de temperatura y LDR con Wemos D1 mini,"['iot', '60et3', 'ieslafuensanta']","temp, ldr"
+90,6,3263298,PROYECTO Iot Sánchez...,mwa0000040454593,RECOGIDA DE DATOS DE LOS SENSORES DE TEMPERATURA,"['iot', '60et3', 'ieslafuensanta']",temp
+91,7,3263307,Proyecto IoT Sergio ...,mwa0000040454675,Recogida de datos de los sensores de temperatura y LDR con Wemos D1 mini,"['iot', '60/3_ieslafuensanta']","temp, ldr"
+92,7,3263297,proyecto IOT 2 mnt  ...,mwa0000040454561,recogida de datos de sensores ldr con wemos d1 mini,"['iot', '60et3 ieslafuensanta']",ldr
+93,7,3263303,Proyecto Iot 2mnt Dí...,mwa0000040454539,Recogida de datos de los sensores de temperatura y LDR con wemos D1 mini,"['iot', '60et3', 'ieslafuensanta']","temp, ldr"
+94,7,3263302,Proyecto IoT 2mnt Pe...,mwa0000040454602,Recogida de datos sensores de proyecto IoT,['ies la fuensanta iot 60et3'],Unknown
+95,7,3263295,Proyecto Iot 2 mante...,mwa0000040454535,recogida de datos de ldr y sensor de temperatura con wemos d1,"['iot', '60et3', 'ieslafuensanta']","temp, ldr"
+96,7,3263292,Proyecto IoT 2ºMNT_G...,mwa0000040454526,Recogida de datos de los sensores de temperatura y LDR con Wemos D1 Mini,"['iot', '60 et3', 'ies la fuensanta']","temp, ldr"
+97,7,3263294,Proyecto IOT 2ºMante...,mwa0000040454524,Recogida de datos de los sensores de temperatura y LDR con wemos D1 mini,"['iot', '60/3_ieslafuensanta']","temp, ldr"
+98,7,3263296,Proyecto IoT 2mnt ló...,mwa0000040454570,Recogida de datos de los sensores de temperatura y LDR con wemos D1 mini.,"['iot', '60et3', 'ieslafuensanta']","temp, ldr"
+99,7,284201,Proyecto IoT 2mnt ap...,malonsorosa,RECOGIDA DE DATOS DE LOS SENSORES DE temperatura y LDR con wemosD1 mini,"['iot', '60et3', 'ieslafuensanta']","temp, ldr"
+100,7,3237209,RFID Door Access Demo,mwa0000039765402,"Customized access levels allow only authorized employees to enter sensitive areas, improving security and workflow efficiency, while still offering faster and more convenient access without requiring extensive development or integration, making it a balan","['rfid', 'door access', 'arduino', 'security', 'demo']",rfid
+101,7,3262504,KONTROL DAN MONITORI...,mwa0000037629377,"Sistem pengatur otomatis kipas angin berbasis ESP32 menggunakan metode Fuzzy Mamdani untuk pengambilan keputusan ON/OFF berdasarkan suhu dan aktivitas jamaah, serta monitoring data secara real-time melalui ThingSpeak.","['iot', 'esp32', 'fuzzy mamdani']",Unknown
+102,7,3254360,WiFi GRR,mwa0000040260273,USE THE WIFI,['give me wifi'],Unknown
+103,7,1027437,Heating and Hot Water,mwa0000017972110,Relative humidity and temperature,"['humidity', 'temperature', 'wabtub']","temperature, temp, humidity"
+104,7,3243713,Great Projects,mwa0000040303019,часы Great Projects,"['temperature', 'humidity', 'quality']","temperature, temp, humidity"
+105,7,2462989,Energy Production us...,mwa0000030577815,This Channel has been created by three Engineering Students from UCSI University in order to complete the Assignment for the Course of Data Communication & Networks under the supervision of Dr Chow Li Sze.,[],Unknown
+106,8,568170,POULAILLE MASSI,pinkfloydnow60,store data of temperature and humidity,[],"temperature, temp, humidity"
+107,8,1838276,Heltec CubeCells Bat...,andtit,Heltec Solar CubCell Lora readings,[],Unknown
+108,8,3107947,tampilan parameter k...,mwa0000039078521,Monitoring Parameter kimia (Tds) Amdk Le mineral berbasis Esp32 (Fadlan),[],Unknown
+109,8,2332667,Sensor de Gás NO2,mwa0000031950936,Teste de leitura do sensor de gás Presense.,[],Unknown
+110,8,3266077,iot project,mwa0000040477290,iot,[],Unknown
+111,8,3258138,under water communic...,mwa0000033209378,hhh,[],Unknown
+112,8,3229434,Flood monitor in City A,mwa0000040148415,City A: Flood status,[],Unknown
+113,8,3221689,HiRES,mwa0000040064823,HYBRID RENEWABLE ENERGIES APP,[],Unknown
+114,8,1122872,J Mittaukset,mwa0000017265688,J Mittaukset,[],Unknown
+115,8,1921157,J IV,mwa0000026842781,J IV,[],Unknown
+116,8,1668300,Data collection from...,mwa0000020571351,"All data is from the channel: 333831
+Based on the data collected, we are here to represent the total cost that saved when solar panel is installed.",[],Unknown
+117,8,1022696,Raspi Temp Usage,mwa0000017790175,,"['sgm', 'raspi']",Unknown
+118,8,1457159,Control Raspberry LU...,mwa0000022777178,Control valores RPI y conexión a Internet de la repetidora LU3HGB-R YSF/C4FM,[],Unknown
+119,8,2665628,Node 1,mwa0000025664343,,"['temperature', 'moisture', 'voltage']","temperature, temp, moisture, voltage"
+120,8,900128,Dew Point Test,mgmgthwin2012,Dew Point Measurement,[],Unknown
+121,9,582158,Lämpötilat,vesala59,,['tmp_out;tmp_kt;tmp_oh; hum_kt;hum_oh;tmp_mh;tmp_pakastin;tmp_kh'],Unknown
+122,9,915251,Dew point exercise,phyophyo22,"Temp,Hum & Dew point",[],temp
+123,9,1380991,Dew Point Measurement,mwa0000022436917,Dew Point Measurement,[],Unknown
+124,9,689516,AIRQO-WB13 UNIT ACTIVE,airqodata02,AirQo Gen6 Steel and Tube Industries boiler area,[],Unknown
+125,9,2436896,Node 1 by code,mwa0000033025422,"Temperature, soil moisture, analog voltage",[],"temperature, temp, soil, moisture, voltage"
+126,9,2855668,Keller,mwa0000032045415,Melsdorf Keller,[],Unknown
+127,9,1265300,Praktikum PBS Modul 10,mwa0000020659693,Putri Shalsabilla Azzahra - 6706184038,[],Unknown
+128,9,1158576,Dew Point Measurement,mwa0000019696233,Matlab Analysis,[],Unknown
+129,9,1361942,Lämpötilat ulkona ja...,tidenberg,Lämpötilat ulkona ja kasvihuoneessa,[],Unknown
+130,9,1259177,Dew Point Measurement,mwa0000020630254,MATLAB Analysis,[],Unknown
+131,9,1247015,Dew Point Measurement,mwa0000020513255,Matlab Analysis,[],Unknown
+132,9,1259278,Dew Point Measurement,mwa0000020630219,Metlab Analysis,[],Unknown
+133,9,1317609,Dew POINT MEASUREMENT,mwa0000021712522,Matlab Analysis,[],Unknown
+134,9,2884892,Dew Point Measurement,mwa0000037269523,Matlab Analysis,[],Unknown
+135,9,677768,Lämmöt ja kosteus,vmakela,,"['cozify', 'automation', 'temperature', 'finland']","temperature, temp"
+136,10,1669723,Air Quality (Germany),mwa0000025842364,D&C Assignment,[],Unknown
+137,10,1351544,AIRQO-G511 UNIT ACTIVE,airqodata02,"AirQo Gen5 Device Operations office, Pramukh Jinja",[],Unknown
+138,10,1281995,Dew Point Measurement,mwa0000020854122,Matlab Analysis,[],Unknown
+139,10,1380983,Dew Point Measurement,mwa0000022436905,Calculate Dew Point based on data from US weather station,[],Unknown
+140,10,1293588,Cozify-lämpö/kosteus...,mwa0000021374466,"Nexa + Telldus, Thermo/Hygrometer @ Klaukkala",[],Unknown
+141,10,2435130,Weather Prediction,mwa0000033010775,Data Analyzing,[],Unknown
+142,10,1393630,ALFRED 18BEE0154,alfron,To measure dew point,[],Unknown
+143,10,1290706,B6230791 - Dew Point...,mwa0000020436300,วัดค่าอุณหภูมิจุดน้ำค้าง,[],Unknown
+144,10,2593998,Sensor-Based Automat...,mwa0000033105018,"Supervisor for Robotics 2 
+Computer Engineering assigned Project",[],Unknown
+145,10,1204833,Dew Point Meaasurement,mwa0000020110814,Matlab Analysis,[],Unknown
+146,10,2479801,node 2,mwa0000033446312,"humidity,and light intensity",[],"humidity, light"
+147,10,1388484,PruebaBeto,lauraorona98,Esto es una prueba,[],Unknown
+148,10,561349,Attic immersion,nostrebor,domestic hot water,[],water
+149,10,1448907,ESP32_TTGO_SCD40_01,mwa0000020835873,,"['esp32', 'ds3231', 'scd40']",Unknown
+150,10,1282007,Dew Point Measurement,mwa0000020853996,Matlab Analysis,[],Unknown
+151,11,1282007,Dew Point Measurement,mwa0000020853996,Matlab Analysis,[],Unknown
+152,11,1281997,Dew Point Measurement,mwa0000020854156,Matlab Analysis,[],Unknown
+153,11,2401929,ESP32_TTGO_SCD40_03,mwa0000020835873,,"['esp32', 'scd40']",Unknown
+154,11,2884894,Dew Point Measurement,mwa0000037269515,Matlab analysis,[],Unknown
+155,11,2857192,backup,mwa0000024257841,Data communication assignment,[],Unknown
+156,11,883876,Lämpötilat,laaaseri,Cozify dataa,[],Unknown
+157,11,1276966,Ulkoilman lämpötila,jarskim,Ulkoilman lämpötila etuportaalla,[],Unknown
+158,11,914978,Dew point measurement,phyophyo22,Dew point test,[],Unknown
+159,11,1651884,AirQo_G558,airqodata02,Airqo Gen5 Device,[],Unknown
+160,11,2963719,airqo_g5505,airqodata02,"Bukasa Kira, Wakiso",[],Unknown
+161,11,1358286,Dew Point Measurement,mwa0000020318283,First test of making a new channel,[],Unknown
+162,11,1375491,AIRQO-G523 UNIT ACTIVE,airqodata02,AirQo Gen5 monitor,[],Unknown
+163,11,577136,Hämäläistentie lämmöt,toroti,Lämpötilat,[],Unknown
+164,11,1285636,Dew point measurement,mwa0000021013650,Matlab Analysis,[],Unknown
+165,11,1281980,Dew Point Measurement,mwa0000020853930,Matlab Analysis,[],Unknown
+166,12,1003800,Dew Point Measurement,mwa0000017654337,Coming from Matlab head quarters,[],Unknown
+167,12,1297689,Dew Point Measurement,mwa0000021428122,Matlab analysi,[],Unknown
+168,12,746951,Weather Monitoring,softayoub,This IoT application will receive the data from external  device which has below parameters.,[],Unknown
+169,12,1486060,Dew Point Measurement,mwa0000023603866,Matlab Analysis,[],Unknown
+170,12,1379966,AIRQO-G533 UNIT ACTIVE,airqodata02,AirQo Generation 5 monitor,[],Unknown
+171,12,1247016,Dew Point Measurement,mwa0000020513312,Matlab Analysis,[],Unknown
+172,12,1780725,Lepola,mwa0000026842781,Lepola,[],Unknown
+173,12,3097793,Test - Mesure du poi...,projetcpas,Ceci est un test dans l'optique de prendre en main Thingspeak et  d'émettre un test de faisabilité,[],Unknown
+174,12,2434686,Weather Prediction,mwa0000032997204,analyzing the weather data,[],Unknown
+175,12,2073499,Imu,mwa0000027677178,sensor updates,[],Unknown
+176,12,2874767,airqo_g5438,airqodata02,"st.ponsiano primary school, Salama road",[],Unknown
+177,12,2087733,AirQo-G5177,airqodata02,St.dominic Bukna Sec. School,[],Unknown
+178,12,1324552,Prueba1,mwa0000021820998,prueba de IOT,[],Unknown
+179,12,641872,M6113506 - Dew Point...,nondevtech,Dew Point from weather station,[],Unknown
+180,12,215043,Cozify,prunonen,This  is  for testing,[],Unknown
+181,13,1324552,Prueba1,mwa0000021820998,prueba de IOT,[],Unknown
+182,13,641872,M6113506 - Dew Point...,nondevtech,Dew Point from weather station,[],Unknown
+183,13,215043,Cozify,prunonen,This  is  for testing,[],Unknown
+184,13,1158575,Dew Point Measurement,mwa0000019696166,Matlab Analysis,[],Unknown
+185,13,1282019,Dew Point Measurement,mwa0000020854333,Matlab Analysis,[],Unknown
+186,13,1380982,Dew Point Measurement,mwa0000022436900,tra lala,[],Unknown
+187,13,1281990,Dew Point Measurement,mwa0000020853974,Matlab Analysis,[],Unknown
+188,13,1668194,Analytical Data (Off...,mwa0000023410537,"Data Communication assignment - IoT Analytic Project (DK, HY, William)",[],Unknown
+189,13,1247010,Dew Point Measurement,mwa0000020513281,Matlab analysis,[],Unknown
+190,13,796638,Dew Point Measuremen...,choongck,US weather station 12397,[],Unknown
+191,13,1816655,IoT Dashboard,mwa0000019974469,Reading from BME680,[],Unknown
+192,13,1291216,Sam's wearable,sp38126,Matlab Analysis,[],Unknown
+193,13,1158574,Dew Point Measurement,mwa0000019696128,Matlab Analysis,[],Unknown
+194,13,1003913,"Humidity, Temp, Dew ...",mwa0000016265977,"previously named ThursdayFeb27
+
+using channel 12397",[],Unknown
+195,13,2417538,Dew Point Measurement,andresprat,Collect Data and Analyze,[],Unknown
+196,14,2417538,Dew Point Measurement,andresprat,Collect Data and Analyze,[],Unknown
+197,14,1259171,Station 01,mwa0000020558199,Matlab Analysis,[],Unknown
+198,14,3236378,Storrady PM,mwa0000040228909,Air particulate matter levels in Storrady Office,[],Unknown
+199,14,1104690,weather channel,mwa0000019062753,WEATHER PARAMETER ANALYSIS,[],Unknown
+200,14,2434652,Weather Management,mwa0000033008465,Analysing data,[],Unknown
+201,14,1035718,John Fernihough Week...,mwa0000017654309,"C19374606
+Week 5/6/7
+Temperature Conversion and avg. Humidity are on seperate channels",[],"temperature, temp, humidity"
+202,14,3269717,Viknesh S,mwa0000040506138,IoT Project,[],Unknown
+203,14,828406,Torppafy,lastu72,Cozify channel for temperatures of home,[],"temperature, temp"
+204,14,2084590,AirQo-G5159,airqodata02,Air quality monitor for Migosi primary school,[],air quality
+205,14,3269803,Sahil Mudgil,mwa0000040507191,Streaming Sensor Data,[],Unknown
+206,14,832254,AIRQO-54 UNIT ACTIVE,airqodata02,Unit with Dual pms5003 sensors Kawempe.,[],Unknown
+207,14,2398760,ESP32_TTGO_SCD40_02,mwa0000020835873,,"['esp32', 'scd40']",Unknown
+208,14,1351543,AIRQO-G510 UNIT ACTIVE,airqodata02,AirQo Generation 5 monitor Mpelerwe),[],Unknown
+209,14,2232307,Tide gauge Arrota - ...,mwa0000030698163,,"['tide', 'portugal', 'ultrasonic', 'water level']","water, ultrasonic"
+210,14,1375494,AIRQO-G526 UNIT ACTIVE,airqodata02,AirQo Gen5 monitor,[],Unknown
+211,15,1375494,AIRQO-G526 UNIT ACTIVE,airqodata02,AirQo Gen5 monitor,[],Unknown
+212,15,2907993,應研感潮河段 PET - Temp,mwa0000029068820,應研感潮河段 PET - Temp,[],temp
+213,15,2907990,應研感潮河段 PET - EC,mwa0000029068820,應研感潮河段 PET - EC,[],Unknown
+214,15,2907984,應研感潮河段 PET - pH,mwa0000029068820,應研感潮河段 PET - pH,[],Unknown
+215,15,1379967,AIRQO-G534 UNIT ACTIVE,airqodata02,AirQo Generation 5 monitor,[],Unknown
+216,15,2628031,Model Node 1 Data,mwa0000026450695,"Temperature every 5 minutes, Soil Moisture every 2 hours, Analog Voltage every 20 seconds.",[],"temperature, temp, soil, moisture, voltage"
+217,15,1290037,AIRQO-G501 UNIT ACTIVE,airqodata02,"AirQo Generation 5 monitor,Makerere University",[],Unknown
+218,15,1795095,SDS011 sensor,mwa0000023022422,"UCSI University, Data Communication Assignment",[],Unknown
+219,15,3242279,Experiment - Yago Rivas,mwa0000040289044,Class Project,[],Unknown
+220,15,1739561,AirQo_G574,airqodata02,Vanguard Primary School,[],Unknown
+221,15,2442954,IOT LAB,mwa0000033092750,Lab Work,[],Unknown
+222,15,2532686,AIRQO_G5329,airqodata02,GEN 6 DEVICE WITH FOTA ENABLED,[],Unknown
+223,15,2539217,AIRQO_G5338,airqodata02,GEN 6 DEVICE WITH FOTA ENABLED,[],Unknown
+224,15,1417856,Air Pollution Monito...,mwa0000022829983,,['air pollution monitoring system'],Unknown
+225,15,2084599,AirQo-G5164,airqodata02,Air quality monitor for kisumu county hospital,[],air quality
+226,16,2084599,AirQo-G5164,airqodata02,Air quality monitor for kisumu county hospital,[],air quality
+227,16,1741916,Internet,mwa0000026564968,2022年度インターネット実践のWebアプリ作成用,[],Unknown
+228,16,1014692,AIRQO-95 UNIT ACTIVE,airqodata02,AirQo Gen4 unit,[],Unknown
+229,16,2963645,airqo_g5499,airqodata02,Nyabuhama Primary School,[],Unknown
+230,16,930427,AIRQO-72 UNIT ACTIVE,airqodata02,AirQo unit with Dual PMS5003 sensors Salama Road Makindye,[],Unknown
+231,16,813014,Air control,vitalym39,Air control,[],Unknown
+232,16,1358288,Dew Point Measurement,mwa0000020318085,First Thing We Are Doing,[],Unknown
+233,16,1461499,DewpointB2105,darshitashah45,this channel calculates the dew point,[],Unknown
+234,16,1069904,Dashboard,mwa0000017752288,Monitoring station,[],Unknown
+235,16,1665915,Optimum Resource All...,mwa0000025770886,Creating and Testing application benchmark for optimum resource allocation in cloud,[],Unknown
+236,16,2464495,Smart Electricity Mo...,mwa0000030705680,Data taken from channel 1535887,[],Unknown
+237,16,2874856,airqo_g5463,airqodata02,Kaburangi COU,[],Unknown
+238,16,2841345,IoT lab 3,mwa0000034812782,weather station data analysis,[],Unknown
+239,16,1014437,Testing,mwa0000017755613,test MQTT,[],Unknown
+240,16,1282005,DEW PONT MEASUREMENT,mwa0000020854172,ANAL,[],Unknown
+241,17,1014437,Testing,mwa0000017755613,test MQTT,[],Unknown
+242,17,1282005,DEW PONT MEASUREMENT,mwa0000020854172,ANAL,[],Unknown
+243,17,1454747,Mesure de la tempéra...,yannlouis,,"['dht22', 'humidité']",dht22
+244,17,2238364,Dew Point Measurement,mwa0000030756036,USP PSI3452,[],Unknown
+245,17,1646224,Task2_VIT,mwa0000017045654,iot DA lab 2,[],Unknown
+246,17,2547024,Dew point calculation,mwa0000033988948,description,[],Unknown
+247,17,2442956,distance finding,mwa0000028295592,calculating distance between object and sensor,[],Unknown
+248,17,3255411,WeatherTest,mwa0000018981102,Test,[],Unknown
+249,17,2539231,AIRQO_G5345,airqodata02,GEN 6 DEVICE WITH FOTA ENABLED,[],Unknown
+250,17,1275088,Ababuj - Cerrada del...,Jsoromom,V11.0,[],Unknown
+251,17,2874906,airqo_g5481,airqodata02,Ruti Health Center II,[],Unknown
+252,17,1909594,Dew Point,mwa0000028003499,Training exercise to measure the dew point on Mathworks weather center.,[],rain
+253,17,1373036,AIRQO-G516 UNIT ACTIVE,airqodata02,"AirQo Gen5 monitor Buto,bweyogerere",[],Unknown
+254,17,2857186,Air Quality Indexes,mwa0000030509287,This is an assignment for data communication and networks,[],Unknown
+255,17,1290040,AIRQO-G504 UNIT ACTIVE,airqodata02,AirQo Generation 5 monitor,[],Unknown
+256,18,2666133,Dew point measurement,mwa0000031077054,This channel depicts the dew point measured,[],Unknown
+257,18,1363163,Data1,mwa0000017881843,lab project,[],Unknown
+258,18,1371822,AIRQO-G513 UNIT ACTIVE,airqodata02,"AirQo Generation 5 monitor Nsawo, Namugongo",[],Unknown
+259,18,2084575,AirQo-G5152,airqodata02,Air quality monitor for kisumu railway station,[],air quality
+260,18,967600,AIRQO-88 UNIT ACTIVE,airqodata02,AirQo Gen4 unit,[],Unknown
+261,18,1465722,IoT-Device1,mwa0000023445123,First Thing Speak Channel,[],Unknown
+262,18,2532711,AIRQO_G5334,airqodata02,GEN 6 DEVICE WITH FOTA ENABLED,[],Unknown
+263,18,2084579,AirQo-G5155,airqodata02,Air quality monitor for kisumu social centre,[],air quality
+264,18,1730401,Dew Point Measurement,mwa0000012207092,Prueba,[],Unknown
+265,18,1295802,SoundAndLight,furryinteractive,Channel showing charts related to sound and light sensor,[],"light, sound"
+266,18,912221,AIRQO-66 UNIT ACTIVE,airqodata02,AirQo unit with dual pms5003 sensors Embassy of Sweden Loc B,[],Unknown
+267,18,755614,AIRQO-44 UNIT ACTIVE,airqodata02,"AIRQO UNIT with PMS5003 at The Surgery Naguru, Kampala",[],Unknown
+268,18,1373039,AIRQO-G519 UNIT ACTIVE,airqodata02,AirQo Gen5 monitor,[],Unknown
+269,18,2977941,Stats,LN90009,statistics,[],Unknown
+270,18,2963751,airqo_g5519,airqodata02,St. Joseph's Vocational School Mbarara,[],Unknown
+271,19,1003815,Dew Point Measuring,mwa0000017654285,Liam Fleming,[],Unknown
+272,19,1651885,AirQo_G559,airqodata02,Airqo Gen5 Deviec,[],Unknown
+273,19,2033319,IoT_1,mwa0000019573476,IoT_CV_1_Description,[],Unknown
+274,19,1290041,AIRQO-G505 UNIT ACTIVE,airqodata02,"AirQo Generation 5 monitor Bukasa,kirinya",[],Unknown
+275,19,2084584,AirQo-G5157,airqodata02,Air quality monitor for JOOTRH,[],air quality
+276,19,870144,AIRQO-60 UNIT ACTIVE,airqodata02,"AirQo unit with dual pms5003 sensor Bbina Luzira, Kampala",[],Unknown
+277,19,1371829,AIRQO-G514 UNIT ACTIVE,airqodata02,"AirQo generation 5 monitor,Kitukutwe",[],Unknown
+278,19,1575532,AirQo_G537 Unit ACtive,airqodata02,AirQo Generation 5 monitor Busia,[],Unknown
+279,19,930433,AIRQO-78 UNIT ACTIVE,airqodata02,AirQo unit with Dual PMS5003 sensors,[],Unknown
+280,19,1265118,PutraBudiansyah,mwa0000020676694,TugasPBSmod10a,[],gas
+281,19,966569,channel_bed2,mwa0000017319734,this channel presents the services of bed2,[],Unknown
+282,19,1003910,Dew Point Measurement,mwa0000017030841,Using Channel 12397,[],Unknown
+283,19,1379965,AIRQO-G532 UNIT ACTIVE,airqodata02,AirQo Generation 5 monitor,[],Unknown
+284,19,3000918,airqo_g5544,airqodata02,St. Mary's Primary School Mbarara,[],Unknown
+285,19,999913,Dew Point Measurement,gerryheapes,Calculation of dew point for remote location using data from sensors and Matlab.,[],Unknown
+286,20,689766,AIRQO-WB27 UNIT ACTIVE,airqodata02,"Pramukh steel, Jinja",[],Unknown
+287,20,2511026,Dew Point Measurement,mwa0000023798750,This is to measure the temperature humidity and dew point,[],"temperature, temp, humidity"
+288,20,730016,AIRQO-WB34UNIT ACTIVE,airqodata02,AIRQO UNIT with PMS5003 Victoria S,[],Unknown
+289,20,689525,AIRQO-WB17 UNIT ACTIVE,airqodata02,AIRQO UNIT with PMS5003 Bududa,[],Unknown
+290,20,2874829,airqo_g5455,airqodata02,Nyamityobora Health Center II,[],Unknown
+291,20,2227427,Segeberger Beute Nr 1,mwa0000030644087,Carnica,[],Unknown
+292,20,1260917,pendeteksi suhu rumah,mwa0000020641911,pendeteksi suhu rumah secara realtime,[],Unknown
+293,20,2869548,Weather Analysis (Sh...,mwa0000029700406,Data Communication Jan'25 Assignment,[],Unknown
+294,20,816482,Dew Ppoint Measureme...,ofigaroa,Example Mathworks,[],Unknown
+295,20,1264952,RidhoPB,mwa0000020674932,Ridho Prawira Bahari - 6706184065 tugas praktikum pbs mod 10,[],gas
+296,20,1003787,Dew Point Measurement,mwa0000017060118,Info coming from MatLab HQ,[],Unknown
+297,20,1193361,IoT,mwa0000018333133,Familiarización con ThingSpeak,[],Unknown
+298,20,2332960,SugarValley,mwa0000031790061,Temperatura,[],temp
+299,20,2539225,AIRQO_G5341,airqodata02,GEN 6 DEVICE WITH FOTA ENABLED,[],Unknown
+300,20,2880926,DCM test UCSI Block E,mwa0000023141307,This is a channel created for Data Communication Assignment. It shows the DCM test at the Block E of UCSI University Kuala Lumpur campus.,[],Unknown
+301,21,689753,AIRQO-WB23 UNIT ACTIVE,airqodata02,AIRQO UNIT with PMS5003 Jinja Main Street,[],Unknown
+302,21,3269722,HALITH,mwa0000040506242,IOT PROJECT,[],Unknown
+303,21,870147,AIRQO-63 UNIT ACTIVE,airqodata02,AirQo unit with dual pms5003 sensor Nansana town council,[],Unknown
+304,21,1351535,AIRQO-G507 UNIT ACTIVE,airqodata02,AirQo Generation 5 monitor,[],Unknown
+305,21,2111612,Práctica 2,mwa0000016011106,Práctica 2: Sistema de Ingeniería de la Información,[],Unknown
+306,21,3000994,airqo_g5570,airqodata02,Biharwe Health Center III,[],Unknown
+307,21,3269751,Temperature and humi...,vishnujayadhevan,Temparture data from the sensor,[],temp
+308,21,2366525,Dew Point Measurement,mwa0000027121379,Just learning,[],Unknown
+309,21,1802399,Data Comm Assignment...,mwa0000017524090,IoT Analytic project,[],Unknown
+310,21,912222,AIRQO-67 UNIT ACTIVE,airqodata02,AirQo unit with dual pms5003 sensors Mbuya,[],Unknown
+311,21,2442950,IOT-CSE,mwa0000033092783,IOT LAB WORKS,[],Unknown
+312,21,1375652,Dew Point Measurement,mwa0000020318204,Luke Mulholland (C20778135) Week 1 ThingSpeak,[],Unknown
+313,21,2532495,AIRQO_G5326,airqodata02,GEN 6 DEVICE FOR GAS SENSORING,[],gas
+314,21,2342313,Analiza date,Andrei,Analizez datele istorice captate de la senzor,[],Unknown
+315,21,1682748,Dew Point Measurement,gwilkins,"This is an example, for ECG 695 Homework 4 (Undergrad Level)",[],Unknown
+316,22,1149132,Real-Time Unsupervis...,xiaoxing55,"Real-Time Noise Detection on Raspberry Pi Using Deep Signal Anomaly Detector
+https://jp.mathworks.com/help/deeplearning/ug/real-time-noise-detection-on-a-raspberry-pi-using-deep-signal-anomaly-detector.html",[],Unknown
+317,22,2547016,srinath,mwa0000033453096,ss,[],Unknown
+318,22,870142,AIRQO-58 UNIT ACTIVE,airqodata02,AirQo unit with dual pms5003 sensor Kabumbi Nansana,[],Unknown
+319,22,1014689,AIRQO-93 UNIT ACTIVE,airqodata02,AirQo Gen4 unit at masaka,[],Unknown
+320,22,755609,AIRQO-WB41 UNIT ACTIVE,airqodata02,AIRQO UNIT with PMS5003 Kabale,[],Unknown
+321,22,1375499,AIRQO-G530 UNIT ACTIVE,airqodata02,AirQo Gen5 monitor,[],Unknown
+322,22,1375490,AIRQO-G522 UNIT ACTIVE,airqodata02,AirQo Gen5 monitor Kirinya COU p/s,[],Unknown
+323,22,1105504,ADITYA,adityabec303,18BEC0303,[],Unknown
+324,22,676000,AIRQO-WB10 UNIT ACTIVE,airqodata02,AIRQO UNIT with PMS5003 Fortportal,[],Unknown
+325,22,967593,AIRQO-82 UNIT ACTIVE,airqodata02,AirQo Gen4 unit,[],Unknown
+326,22,1014688,AIRQO-92 UNIT ACTIVE,airqodata02,AirQo Gen4 unit,[],Unknown
+327,22,3000921,airqo_g5545,airqodata02,Bishop Stuart University Mbarara,[],Unknown
+328,22,2532675,AirQo G5328,airqodata02,GEN 6 DEVICE WITH FOTA ENABLED,[],Unknown
+329,22,1623468,Birdhouse3,mwa0000020729957,,['birdhouse'],Unknown
+330,22,2539218,AIRQO_G5339,airqodata02,GEN 6 DEVICE WITH FOTA ENABLED,[],Unknown
+331,23,1375492,AIRQO-G524 UNIT ACTIVE,airqodata02,AirQo Gen5 monitor,[],Unknown
+332,23,2650152,AIRQO_G5373,airqodata02,Victoria S,[],Unknown
+333,23,718028,AIRQO-WB29 UNIT ACTIVE,airqodata02,AIRQO UNIT with PMS5003 Victoria S,[],Unknown
+334,23,1379969,AIRQO-G535 UNIT ACTIVE,airqodata02,AirQo Generation 5 monitor,[],Unknown
+335,23,1951151,Airqo_G5114,airqodata02,Layibi Techo Health Centre III,[],Unknown
+336,23,1676740,"Force, Heat Index an...",mwa0000021466778,"Calculating the force generated by the wind, heat index generated by the temperature and humidity and the wind pressure",[],"temperature, temp, humidity, pressure"
+337,23,2084581,AirQo-G5156,airqodata02,Air quality monitor for kuoyo health centre,[],air quality
+338,23,1373037,AIRQO-G517 UNIT ACTIVE,airqodata02,AirQo Gen5 monitor,[],Unknown
+339,23,3241281,青山天主教小學  2026 香港創科展 ...,mwa0000032996964,CPCPS 2026 - 綠色守護者 - 戶外空氣質素檢測及潔淨系統,[],Unknown
+340,23,1192541,BAM MUK,airqodata02,Bam Data collection channel @ Makerere university,[],Unknown
+341,23,3269543,Pharmacy Temperatur...,mwa0000040474193,Creating : Pharmacy Temperature Monitoring,[],"temperature, temp"
+342,23,1290038,AIRQO-G502 UNIT ACTIVE,airqodata02,gen5 device,[],Unknown
+343,23,3269691,DHT11_chahat,mwa0000040506136,Streaming sensor data,[],Unknown
+344,23,2084571,AirQo-G5149,airqodata02,Geohealth Hub Nairobi BAM,[],Unknown
+345,23,2411655,Dew Point Measurement,mwa0000031767469,Test Channel 001,[],Unknown
+346,24,989035,Dew point Measurement,moubag,This is a test (Collect data in a channel,[],Unknown
+347,24,3269657,Piyush,mwa0000040506007,streaming sensor data,[],Unknown
+348,24,870146,AIRQO-62 UNIT ACTIVE,airqodata02,AirQo unit with dual pms5003 sensor Cocis,[],Unknown
+349,24,2258307,Kotimäentie,mwa0000030995813,Datalog,[],Unknown
+350,24,3269630,DHT11_Akshat,mwa0000040505905,Streaming sensor data,[],Unknown
+351,24,1351540,AIRQO-G508 UNIT ACTIVE,airqodata02,AirQo Generation 5 monitor Kampala Quality p/s,[],Unknown
+352,24,3082586,THESIS system 2,mwa0000038045794,Thesis System 2 monitoring channel,[],Unknown
+353,24,3269622,DHT11_JASPREET,mwa0000040505854,Streaming Sensor Data,[],Unknown
+354,24,3267526,Acuicola Joel,AquaAlert,"Granja acuicola de camaron en el Tigre, Navolato.",[],Unknown
+355,24,3269601,Hygiene Monitoring S...,mwa0000040196638,Check hygiene level,[],Unknown
+356,24,1789249,Data Communication A...,mwa0000023024955,"Analyze the relationship between air density with temperature, pressure and humidity. To discuss the importance of air density in various of application.",[],"temperature, temp, humidity, pressure"
+357,24,3269402,IOT FLOOD MONITORING...,mwa0000040505272,IOT FLOOD MONITORING SYSTEM,[],Unknown
+358,24,655398,Sauna + Keittiö,ruunula,Saunan tiedot,[],Unknown
+359,24,3174173,Sensor data from AM2302,mwa0000039687580,Temperature & humidity data at 15 second intervals,[],"temperature, temp, humidity"
+360,24,1880565,BeeFamily,mwa0000027757584,Beehives Scales,[],Unknown
+361,25,2980109,Dew Point Measurement,YuntianWu,Example of ThingSpeak tutorial,[],Unknown
+362,25,3269513,Rahul Yadav,mwa0000040505503,Streaming Sensor data,[],Unknown
+363,25,1934716,IOT  WEATHER MONITRO...,mwa0000028312260,IOT  WEATHER MONITROING  SYSTEM,[],Unknown
+364,25,3260652,"e06,e19",mwa0000035522927,humidity using the node mcu,[],humidity
+365,25,3269455,temp & humidity,mwa0000034327204,exp-10,[],Unknown
+366,25,3269441,web training channel,mwa0000037834935,none,[],Unknown
+367,25,3269433,IoT_Based_Projects,mwa0000037711823,iot based projects,[],Unknown
+368,25,3237210,Mouse Trap,mwa0000040238804,intelligent mouse trap that detects and notifies user remotely,[],Unknown
+369,25,3269396,Temp&Humi,mwa0000034327502,sending temp and hum readings,[],temp
+370,25,3269428,DHT11_Aman,mwa0000038536523,Streaming Sensor Data,[],Unknown
+371,25,1271430,Birdhouse2,mwa0000020729957,,['birdhouse'],Unknown
+372,25,3269198,Estación,mwa0000030803867,Estación 1,[],Unknown
+373,25,2874898,airqo_g5477,airqodata02,Katukuru Primary School,[],Unknown
+374,25,3175302,BragerOne,mwa0000039691603,Parametry z pieca,[],Unknown
+375,25,3269310,DHT11_Akshita,mwa0000040504951,Streaming sensor data,[],Unknown
+376,26,1874809,Airqo_G5101,airqodata02,"Water and Environment House, Luzira Kampala",[],water
+377,26,3269271,najm RR2501R_PA,mwa0000040382621,,['rr2501q/r_pa'],Unknown
+378,26,3269269,RizqHaziq_RR2501R_pa,mwa0000040382637,,['rr2501q/r_pa'],Unknown
+379,26,3269268,Rezky_RR2501R_PA,mwa0000040382620,,['rr2501r/q'],Unknown
+380,26,3269266,syabil_RR2501R_PA,mwa0000040382600,,['rr2501q/r_pa'],Unknown
+381,26,3269265,Maerijam_RR2501Q_PA,mwa0000040382626,,['rr2501q/r_pa'],Unknown
+382,26,3269261,Hannah_RR2501Q_PA,mwa0000040382627,,['rr2501q/r_pa'],Unknown
+383,26,1801019,SDS011 sensor (Air Q...,mwa0000023022422,"UCSI University,
+Data Communication & Networks Assignment",[],Unknown
+384,26,3269262,putra_RR2501R_PA,mwa0000040382632,,['rr2501q/r_pa'],Unknown
+385,26,3269260,maisara_RR2501Q`_PA,mwa0000040382619,,['rr2501q/r_pa'],Unknown
+386,26,3269254,baqie_rr2501r_pa,mwa0000040382610,,['rr2501q/r_pa'],Unknown
+387,26,3269249,Darren_RR2501Q _PA,mwa0000040441191,,['rr2501q/r_pa'],Unknown
+388,26,3269250,Norman_RR2501R_PA,mwa0000040440971,,['rr2501q/r_pa'],Unknown
+389,26,3269244,Sheryl_RR2501Q_PA,mwa0000040382618,,['rr2501q/r_pa'],Unknown
+390,26,3269245,PangHuiYu_RR2501Q_PA,mwa0000040382609,,['rr2501q/r_pa'],Unknown
+391,27,3269247,faqrul_RR2501R_PA,mwa0000040382612,,['rr2501q/r_pa'],Unknown
+392,27,3252489,Sheryl_RR2501Q,mwa0000040382618,,['rr2501q/r'],Unknown
+393,27,3269242,Brian_RR2501R_PA,mwa0000040382624,,['rr2501q/r_pa'],Unknown
+394,27,3269241,Noor Shahila_RR2501Q_PA,mwa0000040382623,,['rr2501q/r_pa'],Unknown
+395,27,3269235,KahWai_RR2501Q_PA,mwa0000040382615,,['rr2501q/r_pa'],Unknown
+396,27,3269234,Anson_LauRR2501Q_PA,mwa0000040382598,,['rr2501q/r_pa'],Unknown
+397,27,3258987,iot Monitoring,mwa0000040428857,egg?,[],Unknown
+398,27,368850,Home [fridge + CO2],nostrebor,"Fridge
+CO2
+Electricity meter",[],co2
+399,27,3269211,sistema de seguridad...,mwa0000040381920,sistema de seguridad por medio de señales de rebote de ondas ultrasonicas etc.,[],ultrasonic
+400,27,1373040,AIRQO-G520 UNIT ACTIVE,airqodata02,"Gen5 device, auto safety garage waigalo,makindye",[],Unknown
+401,27,2986051,Jake's,mwa0000037954217,skleník,[],Unknown
+402,27,2539357,AIRQO_G5346,airqodata02,GEN 6 DEVICE WITH FOTA ENABLED,[],Unknown
+403,27,2007162,1nce-1-Caldaia-ore g...,mwa0000024864411,1nce-1-Caldaia-ore giorno ch 2007162,[],Unknown
+404,27,2472295,Environmental System...,mwa0000033001169,"Tracks real-time environmental conditions. It collects data on temperature (Fahrenheit and Celsius), humidity, air pressure,and PM2.5 concentration. To analyse the air density, and Air Quality Index (AQI).",[],"temperature, temp, humidity, pressure, air quality"
+405,27,1250139,Koti kosteus,klkklk,Kosteusmittareiden data,[],Unknown
+406,28,3258534,Bernal & Cabanban,mwa0000040418831,DHT22 measurement,[],dht22
+407,28,3254985,Smart Agriculture We...,mwa0000035937263,"Monitoring temperature, humidity, soil moisture, rainfall and npk content of soil using ESP32",[],"temperature, temp, humidity, rain, soil, moisture"
+408,28,689530,AIRQO-WB18 UNIT ACTIVE,airqodata02,"Pramukh steel, Jinja, operation offices",[],Unknown
+409,28,1642904,Temperature,mwa0000025447154,Cabin_Readings,[],Unknown
+410,28,3269157,OAP,mwa0000031763986,ULTIMA PRACTICA DE DOMOTICA  CON ESP32  +7SEGMENTOS +UN LED,[],Unknown
+411,28,2832048,LUNA.FILHO,mwa0000036770501,teste de api,[],Unknown
+412,28,781815,TFSAS2,jtbthe3,,['tfsas2'],Unknown
+413,28,2532689,AIRQO_G5330,airqodata02,GEN 6 DEVICE WITH FOTA ENABLED,[],Unknown
+414,28,21450,21450 Weather,trickedj,Iot Weather Data,[],Unknown
+415,28,3269124,ODS 12 SISTEMA INTEL...,mwa0000040502341,"Busca la promocion acerca de los residuos que son reciclados no sean acumulados evitando asi bausra excesiva, promoviendo asi mismo el reciclaje.",[],Unknown
+416,28,3269113,Monitoreo energético...,mwa0000040502257,Sistema de medición inteligente de consumo eléctrico para la gestión eficiente de la energía,[],Unknown
+417,28,3269125,Sintra Bajos Stark,mwa0000040502276,Plataforma IOT,[],Unknown
+418,28,3269116,Disminución de daños...,mwa0000040502334,"Con ayuda de un sensor de nivel de agua nos indicará cuando la marea sea alta y nos dará una señal de inundación, para prevenir riesgos a las estructuras de las viviendas .      Equipo: Israel, Andrik, Alberto, Enrique",[],Unknown
+419,28,3269111,Sistemas Embebidos,mwa0000038303116,"Lectura de sensores en tiempo real para la eficiencia de la distribución del alumbrado público, proyecto creado para la materia de sistemas embebidos aplicada.
+EQUIPO: Israel, Enrique, Adrick y Alberto",[],Unknown
+420,28,3269117,Monitoreo y Separaci...,mwa0000040502265,"Los residuos sólidos de un taller automotriz correrán sobre una banda transportadora hasta encontrarse con un sensor que detectará el tipo de residuo (metálico o plástico) y procederá a separarlo en el respectivo contenedor.
+Dicho contenedor contendrá un",[],Unknown
+421,29,3269114,Consumo de Energía E...,mwa0000040502256,Monitorización de Energía basado en IoT para Smart Grid (alineado al ODS 7),[],Unknown
+422,29,3269112,Pharmacy Temperature...,mwa0000040426107,Pharmacy Temperature Monitoring,[],"temperature, temp"
+423,29,2539216,AIRQO_G5337,airqodata02,GEN 6 DEVICE WITH FOTA ENABLED,[],Unknown
+424,29,2532699,AIRQO_G5332,airqodata02,GEN 6 DEVICE WITH FOTA ENABLED,[],Unknown
+425,29,2532697,AIRQO_G5331,airqodata02,GEN 6 DEVICE WITH FOTA ENABLED,[],Unknown
+426,29,30636,30636 Iot Device Status,trickedj,IoT Data Feed,[],Unknown
+427,29,26307,26307 Greenhouse,trickedj,Greenhouse,[],Unknown
+428,29,665232,Teploty Doma,aa226181,"Teploty vzduchu, radiátoru a venkovní teplota",[],Unknown
+429,29,2823977,Estação Meteorológic...,mwa0000036688962,"Temperatura, Umidade,  Pressão Atmosférica e radiação UV.",[],temp
+430,29,70551,Hyperlien,mathgonma,Mesure de températures dans différentes zones d'Hyperline,[],temp
+431,29,3269027,Weather 874,mwa0000040501214,Weather Station details,[],Unknown
+432,29,2145276,Heltec Sensor readi...,andtit,Lora module Heltec Mesh readings,[],Unknown
+433,29,3268972,DHT11_Bhumika,mwa0000040500732,Streaming Sensor Data,[],Unknown
+434,29,3258454,riego solar automati...,mwa0000040426300,1 sensor,[],Unknown
+435,29,3258537,Drona & Vicente WokWi,mwa0000040428117,DHT22 Measurement,[],dht22
+436,30,3268891,Environmental Teleme...,mwa0000032285063,"This channel collects and analyzes real-time environmental data acquired from an ESP32-based multi-sensor system. Measurements include temperature, humidity, atmospheric pressure, altitude, light intensity, and geographic coordinates.
+
+The system is des",[],"temperature, temp, humidity, pressure, light"
+437,30,737276,AIRQO-WB39 UNIT ACTIVE,airqodata02,AIRQO UNIT with PMS5003 Lubaga Kabusu,[],Unknown
+438,30,3268927,Project2_Temp_humidi...,mwa0000005125550,project 2,[],Unknown
+439,30,3264698,dht11,mwa0000040425107,temperature monitor,[],"temperature, temp"
+440,30,2532718,AIRQO_G5336,airqodata02,GEN 6 DEVICE WITH FOTA ENABLED kawempe Division office,[],Unknown
+441,30,778651,ITEMS-Actuator,cant5533,Actuator channel,[],Unknown
+442,30,778655,ITEMS-ExternalData,cant5533,External data imported,[],Unknown
+443,30,3268863,IoT Weather Station,mwa0000040434055,Arduino IoT humidity data,[],humidity
+444,30,3268869,DSB WIFI TI 244/3268869,mwa0000040499323,Nextcon LTDA,[],Unknown
+445,30,3268867,DSB WIFI TI 244/3268867,mwa0000040499323,Nextcon LTDA,[],Unknown
+446,30,3268866,DSB WIFI TI 244/3268866,mwa0000040499323,Nextcon LTDA,[],Unknown
+447,30,1801374,Wind Power Monitoring,mwa0000019023350,Monitor wind speed and carry out analysis for wind turbine generation: BEE3033 Assignment Project,[],Unknown
+448,30,3268838,ESP8266,mwa0000040498654,ESP8266 and DHT11,[],dht11
+449,30,3120412,ESTACIÓN METEOROLÓGI...,mwa0000038299967,EXTENSIÓN DE LA MISMA ESTACIÓN!!!,[],Unknown
+450,30,2539226,AIRQO_G5342,airqodata02,GEN 6 DEVICE WITH FOTA ENABLED,[],Unknown
+451,31,672528,AIRQO-WB4 UNIT ACTIVE,airqodata02,AIRQO UNIT with PMS5003 Rubirizi,[],Unknown
+452,31,3258184,ThingspeakIoTFrontie...,mwa0000040420659,DHT22 measurement,[],dht22
+453,31,3265491,SRE KUMARAN GRAND WA...,mwa0000040473418,"Filed 1 - SUMP
+Field 2 - OH Tank",[],Unknown
+454,31,3268715,IOT WEATHER STATION,mwa0000040433843,AURDINO IOT HUMIDITY DATA,[],humidity
+455,31,3257644,Iot frontier 1,mwa0000040418864,DHT22 measurement,[],dht22
+456,31,3259817,Temperature Monitoring,mwa0000040433843,Arduino IOT temperature /humidity data,[],"temperature, temp, humidity"
+457,31,2421168,Stromzähler,hoteloskar,"Stromverbrauch pro Tag, geliefert aus der entspr. homematic Systemvariablen",[],Unknown
+458,31,2436916,Weather Monitoring,mwa0000033028797,Team Blaze,[],Unknown
+459,31,3268672,Sudheer-DHT11,mwa0000038331461,Measurement of temperature and humidity,[],"temperature, temp, humidity"
+460,31,3264769,Ultrasonic sensor,mwa0000040418713,Ultrasonic sensor,[],ultrasonic
+461,31,2511329,Dew Point Measurement,mwa0000033724908,Temperature,[],"temperature, temp"
+462,31,3268594,IOT_DTH11,mwa0000038210601,Measurement of temperature and humidity,[],"temperature, temp, humidity"
+463,31,3268600,LokeshkumarDHT11,mwa0000040497374,Measurement of Temperature and Humidity,[],"temperature, temp, humidity"
+464,31,3268593,Aish_DHT11,mwa0000038331894,"Temperature measurement 
+Humidity measurement",[],"temperature, temp, humidity"
+465,31,3268606,VijendrababuDTH11,mwa0000038331529,Measurement of temperature and humidity,[],"temperature, temp, humidity"
+466,32,3268629,Sudheer-DTH11,mwa0000038331461,Measurement of temperature and humidity,[],"temperature, temp, humidity"
+467,32,3268602,Satvik Donuri-Dth 11,mwa0000038187607,Measurement of temperature and humidity,[],"temperature, temp, humidity"
+468,32,3268604,DHT11,mwa0000038331483,Measuring Temperature and Humidity,[],"temperature, temp, humidity"
+469,32,3268584,Temprature and Humid...,mwa0000038187814,Measurement of temperature and humidity,[],"temperature, temp, humidity"
+470,32,3268598,DHT11,mwa0000038414578,Measuring temperature and humidity,[],"temperature, temp, humidity"
+471,32,3268599,Manikanta dth11,mwa0000038187809,Measurement of temperature and humidity,[],"temperature, temp, humidity"
+472,32,3268592,Sudheer-DTH11,mwa0000038331461,Measurement of temperature and humidity,[],"temperature, temp, humidity"
+473,32,3268588,Temperature &Humidity,mwa0000038316161,Measurement of Temperature&Humidity,[],"temperature, temp, humidity"
+474,32,3268595,Temp_DTH11,mwa0000038226146,measurement of temperature and humidity,[],"temperature, temp, humidity"
+475,32,3268612,Pavithra_DHT11,mwa0000039328292,"Temperature measurement 
+Humidity measurement",[],"temperature, temp, humidity"
+476,32,3268601,DHANUSH_DTH11,mwa0000032432034,MEASUREMENT OF TEMPERATURE AND HUMIDITY,[],"temperature, temp, humidity"
+477,32,3268577,Lab 4,mwa0000038292759,DNEA Lab 4. Thingspeak,[],Unknown
+478,32,3268552,MEASUREMENTS,mwa0000040497242,Measure Temperature and Humidity using DHT 11,[],"temperature, temp, humidity"
+479,32,3230591,442_ENS160,aflowers,Monitoring jakości powietrza w Sali 442 (czujnik ENS160),[],Unknown
+480,32,3268461,GummaDTH11,mwa0000034419080,Temperature and Humidity Measuring,[],"temperature, temp, humidity"
+481,33,17504,Example Data Test Ch...,adarshmurthy,Use this channel to test MATLAB examples. Note that others might be writing data to this channel as well. Try again if you don't see your data.,[],Unknown
+482,33,1106668,weather channel,mwa0000017916745,analyzing weather,[],Unknown
+483,33,3265540,PAWQMS4,mwa0000035606469,Pagbilao-Padre Burgos Prototype,[],Unknown
+484,33,3268114,Zadanie 1 - PIOT,mwa0000034997959,Lorem ipsum dolor sit amet,[],Unknown
+485,33,3268113,test_channel,mwa0000031985774,cv_01,[],Unknown
+486,33,3268144,Material sorting system,mwa0000040087998,"metal,plastic,glass sorting data form raspberry pi",[],Unknown
+487,33,3268121,Zadanie_1,mwa0000031316650,Meteo stanica,[],Unknown
+488,33,2532715,AIRQO_G5335,airqodata02,GEN 6 DEVICE WITH FOTA ENABLED,[],Unknown
+489,33,3237721,Dias Home,mwa0000040240823,StromWächter,[],Unknown
+490,33,3268126,30217@1150123,mwa0000040227366,IOT 空氣品質偵測,[],Unknown
+491,33,3267950,DHT11_Ishita,mwa0000040494138,Streaming sensor data,[],Unknown
+492,33,3267979,Environmental Monitor,mwa0000027169384,Ejemplo IoT,[],Unknown
+493,33,3217086,Library book trackin...,mwa0000040025246,IOT based Book issue tracking,[],Unknown
+494,33,3252521,TravelSafe Guardian,mwa0000040382746,"IoT safety monitor for travelers: temp, humidity, motion, distance, light, 24h timer status",[],"temp, humidity, light, motion"
+495,33,3241421,PIR,mwa0000040208472,LED + ThingSpeak,[],Unknown
+496,34,3267991,DHT11_Shriya,mwa0000040494372,Streaming sensor data,[],Unknown
+497,34,3258962,exp9,mwa0000038655914,upload temperature and humidity to thingspeak cloud,[],"temperature, temp, humidity"
+498,34,3267953,DHT-11 sensor-Things...,mwa0000037286093,Send data to cloud,[],Unknown
+499,34,3267952,DHT11_Ishita,mwa0000040494138,Streaming sensor data,[],Unknown
+500,34,2586773,Quinta do Pisão - SOLO,mwa0000034294307,"Sistema instalado em pomar jovem de maçã na Quinta do Pisão, no âmbito do projeto TEC4GREEN. 
+Distribuição de dados --> H25, T25, CE25, H50, T50, CE50",[],Unknown
+501,34,2586772,Quinta do Pisão - Es...,mwa0000034294307,"Sistema instalado em pomar jovem de maçã na Quinta do Pisão, no âmbito do projeto TEC4GREEN. 
+Distribuição de dados --> PARc, Tair, Hair,WS,dirW,Rain,WL,vpd",[],rain
+502,34,3267946,IOT enables solar tr...,mwa0000040494293,"Real-time monitoring of solar voltage, battery status, and electric fence operation using ESP32 and IoT cloud platform.",[],voltage
+503,34,3258981,exp8,mwa0000037286093,dht11,[],dht11
+504,34,3068388,MAPLRnD 7sensor,mwa0000038568310,data logger,[],Unknown
+505,34,3267940,exp-9,mwa0000035839306,hiii,[],Unknown
+506,34,3264403,DHT11,mwa0000040462818,TEMP data,[],temp
+507,34,3267373,Smart Home Protector...,mwa0000040487885,"fire,gas,motion monitoring system",[],"gas, motion"
+508,34,3267899,kekuatan sinyal,mwa0000039154274,enjoy the creation,[],Unknown
+509,34,3076244,DTH11,mwa0000035523277,find temp and humidity,[],"temp, humidity"
+510,34,3201475,IOT Home Data,mwa0000023117513,Esp 8266,[],Unknown
+511,35,3267812,PIR_Sensor,mwa0000040208424,Thingspeak + PIR,[],pir
+512,35,3267806,PIR,mwa0000040208411,PIR sensor,[],pir
+513,35,551819,Чепинци,hilmi100,,"['чепинци', 'chepinci']",Unknown
+514,35,3267678,DHT11_Radhika,mwa0000040493260,Streaming Sensor Data,[],Unknown
+515,35,3260269,Channel 3260269,mwa0000040440801,Rain Gauge,[],rain
+516,35,3267655,Señal analógica,ealamilla,Simulación de una señal analógica usando una onda senoidal simulada (Simulate Signal) en Labview.,[],Unknown
+517,35,3267656,Panya online,mwa0000036414768,bkk,[],Unknown
+518,35,3186984,panya iot,mwa0000036414768,bkk,[],Unknown
+519,35,3267651,BroTanic Garden,mwa0000040492564,MAPP Project to GET/POST our website,[],Unknown
+520,35,3264966,ESP32 DHT11 FERNANDO,mwa0000040470625,Lee Temperatura y Humedad desde un DHT11,[],"temp, dht11"
+521,35,3267645,DE.2024/6008_David_R...,mwa0000040492326,Temperature and Humidity Monitor.,[],"temperature, temp, humidity"
+522,35,1678482,Nine-Twelve,mwa0000025966445,Last Temperatures,[],"temperature, temp"
+523,35,3201995,Proyecto Métodos Num...,AndresG123,Adquisicion de datos,[],Unknown
+524,35,3044402,Campbell Repair 16 -...,mwa0000019692392,"Campbell Repair 16
+SN: 332525
+Check Dr
+New DRUCK
+DRUCK Replaced 1/6/26",[],Unknown
+525,35,3258515,Projet IoT M2,mwa0000034312117,"Surveillance de la température, de l’humidité et de la qualité de l’air
+avec alertes locales via ESP32.",[],temp
+526,36,3264962,John and Ben Tempera...,mwa0000040470514,Temperature probe for sensors lab.,[],"temperature, temp"
+527,36,3258498,Bryden Temperature Lab,mwa0000038603013,EP 4210 Sensor Lab,[],Unknown
+528,36,2802853,Thermo-hygro,metal83,Temperature and humidity,[],"temperature, temp, humidity"
+529,36,3267579,Analizador para moni...,mwa0000033549562,Analizador de red monofásico enfocado en monitorear un equipo multiparámetro medico,[],Unknown
+530,36,3267415,test,jerzat15,"esp8266, dht11",[],dht11
+531,36,2982402,Tempo agora,mwa0000034349860,Sensor DHT11,[],dht11
+532,36,3267227,GreenAirCleaner,mwa0000040486627,"Channel for ""Green Air Cleaner"" Project",[],Unknown
+533,36,1842172,Gasverbrauch,shuppertz,Gasverbrauch Pützweg 7,[],gas
+534,36,3267400,Prvi projekt NM RM,mwa0000040488473,Opis projekta,[],Unknown
+535,36,3262099,Positions - Genauigkeit,yy56xjk18,Test GPS-Module zB.  Neo - 6/8,[],gps
+536,36,3267464,Cviko1_meteo,mwa0000031112711,hahaxd,[],Unknown
+537,36,3202963,Aquasecure IDT,mwa0000039916488,"Waterborne Disease Monitoring & Prediction System is an IDT project aimed at tracking water quality, analyzing disease trends, and predicting outbreak risks in northern India using AI, GIS, and real-time data to enable early alerts, safer water access, an",[],water
+538,36,3266162,Columna burbujeo ODx...,mwa0000040478664,"ThinkSpeak_ODx2_EC_TDS_Temp_TFT_ST7732_v1_5
+    ThingSpeak.setField(1, tdsValue);
+    ThingSpeak.setField(2, temperature);
+    ThingSpeak.setField(3, ecValue);
+    ThingSpeak.setField(4, OD_value1);
+    ThingSpeak.setField(5, OD_value2);",[],"temperature, temp"
+539,36,3267409,prvi projekat,mwa0000040488606,temperatura i vlaznost,[],temp
+540,36,3266462,Home sensors,mwa0000040482619,Try,[],Unknown
+541,37,3267234,34322 IoT - SUN,mwa0000028304546,Something,[],Unknown
+542,37,3264757,heart beat sensor,mwa0000040467423,gives number of beats per minute,[],Unknown
+543,37,3267221,temprature,davebr36,LM35,[],Unknown
+544,37,3267183,cyberphysics_weather,mwa0000040274968,xyz,[],Unknown
+545,37,3259209,E 9,mwa0000034643538,Temp & Humidity,[],"temp, humidity"
+546,37,3267195,ID123456,mwa0000040486246,xyz,[],Unknown
+547,37,3267081,smart vehicle,mwa0000040404988,smart vehicle,[],Unknown
+548,37,3265885,REVELATIONS,mwa0000040474989,TEMPERATURE_MONITOR,[],"temperature, temp"
+549,37,3263638,DatosMeteo,mwa0000033747625,dades dels,[],Unknown
+550,37,253161,IoT_E_S,sibutr,TEMP_HUM_PIR_LUX_PRESS_NET_PS,[],"temp, lux, pir"
+551,37,3266939,Week-7,mwa0000040347947,Humidity and Tempeature,[],"temp, humidity"
+552,37,3224089,Iot energy power,mwa0000039992348,Pzem04t,[],Unknown
+553,37,3267024,HUMIDITY & TEMP SENSING,mwa0000038295670,HUMIDITY & TEMP SENSING,[],"temp, humidity"
+554,37,3266998,DHT11_Sandeep,mwa0000040485080,Streaming sensor data,[],Unknown
+555,37,3039864,DHT11_Raghav,mwa0000038387805,Streaming Sensor Data,[],Unknown
+556,38,3266950,week7,mwa0000040348180,to digitally monitor the temperature and humidity data,[],"temperature, temp, humidity"
+557,38,3266932,DHT11_Harshyadav,mwa0000038511895,Streaming sensor data,[],Unknown
+558,38,3266922,KRISHIV SINGH,mwa0000040484887,STREAMING SENSOR DATA,[],Unknown
+559,38,1351546,AIRQO-G512 UNIT ACTIVE,airqodata02,"AirQo Generation 5 monitor, Bwaise",[],Unknown
+560,38,3256808,A Convolutional Tran...,mwa0000032051085,This model is designed to detect abnormal behavior in WBNA (Wireless Body Network Applications) or similar sensor-based networks by combining the strengths of Convolutional Neural Networks (CNNs) and Transformers.,[],Unknown
+561,38,3266842,DHT11_Vanshik,mwa0000040484333,Streaming sensor data,[],Unknown
+562,38,3266819,Irsenor,mwa0000040346621,To upload temperature  and humidity data to cloud using arduino,[],"temperature, temp, humidity"
+563,38,1562084,Dados para calibrar ...,FabioAlejandroCarvajal,controle e instrumentação de processos químicos. dados para calibrar sensor de umidade usando como padrão de referencia a curva fornecida pelo fabricante.,[],Unknown
+564,38,3266786,adafruit,mwa0000031942729,iiot,[],Unknown
+565,38,3266763,Manhole Hazard Node2,mwa0000033070490,,['iot manhole_hazard node2'],Unknown
+566,38,3224584,Smart Bin Node1,mwa0000033070490,,['iot for smart bin node1'],Unknown
+567,38,3266637,SAP PROJECT,mwa0000040483270,INNOVATION,[],Unknown
+568,38,3266563,prueba,mwa0000040483085,ejemplo de configuración del canal,[],Unknown
+569,38,3266220,dharanikumar,mwa0000040479471,for wifi connecting,[],Unknown
+570,38,3265739,AUTO PLANT CARE SYST...,mwa0000040474134,MICROBIT   IoT bit,[],Unknown
+571,39,3266435,BME280 Reading,mwa0000038101050,Reading from BME280(ESP32),[],bme280
+572,39,3266465,BME280 Reading,mwa0000038141402,"Reading from
+BME280 Reading",[],bme280
+573,39,3266487,Temperature and Humi...,mwa0000040482821,Monitor Temperature and Humidity,[],"temperature, temp, humidity"
+574,39,3266356,DHT11 Readings,mwa0000038101862,esp32,[],Unknown
+575,39,3266371,DHT11 Readings,mwa0000038067802,Readings from BME280 (ESP32),[],bme280
+576,39,3266392,DHT11 Reading,mwa0000038067844,Readings from DHT11 (ESP32),[],dht11
+577,39,3266390,DHT11 Reading,mwa0000038098736,Reading from DHT11 (ESP32),[],dht11
+578,39,3266415,DHT11,mwa0000038100762,Readings from BME280(ESP32),[],bme280
+579,39,3266397,BME280 Readings,mwa0000038104946,Readings from BME280 (ESP32),[],bme280
+580,39,3266432,DHT11 Readings,mwa0000038081400,Readings from DHT11 sensor (ESP32),[],dht11
+581,39,3266419,BME 280 Readings,mwa0000038104927,BME 280 Readings,[],Unknown
+582,39,3266401,DHT11,mwa0000038104963,Reading from BME280 (ESP32),[],bme280
+583,39,3266399,DHT11,mwa0000038104908,Reading from BME280 (ESP32),[],bme280
+584,39,3266359,DHT11 Readings,mwa0000038067810,Readings from DHT11 (ESP32),[],dht11
+585,39,3266407,BME280 Readings,mwa0000038101899,Readings from BME280(ESP32),[],bme280
+586,40,3266381,DHT11 Reading,mwa0000038067797,Reading from DHT11(ESP32),[],dht11
+587,40,3266370,BME280 Reading,mwa0000038105070,Readings from BME 280,[],Unknown
+588,40,3266377,BME280 Reading,mwa0000038104898,Readings from BME280 (ESP32),[],bme280
+589,40,3266378,DHT11 Reading,mwa0000038067795,Readings from DHT11 (Esp32),[],dht11
+590,40,3266366,DHT11,mwa0000038067826,Reading from DHT11,[],dht11
+591,40,3266353,BME280 Readings,mwa0000038103955,Readings from BME280(ESP32),[],bme280
+592,40,3266433,DHT,mwa0000038116967,DHT,[],Unknown
+593,40,3266394,DHT11 reading,mwa0000038072846,Reading from DHT11 (ESP32),[],dht11
+594,40,3266398,BME280 Readings,mwa0000038104923,Readings from BME280 (ESP32),[],bme280
+595,40,3266400,BME280 Readings,mwa0000038104926,Readings from BME280 (ESP32),[],bme280
+596,40,3266373,DTH11Reading,mwa0000038081413,Reading from DHT11,[],dht11
+597,40,3266357,DHT11 Readings,mwa0000038067807,reading from esp32,[],Unknown
+598,40,3266354,DHT11 Readings,mwa0000038069738,Readings from DHT11(ESP32),[],dht11
+599,40,3266393,BME280 readings,mwa0000038104924,Reading from BME280 (ESP32),[],bme280
+600,40,3266361,DHT11 Reading,mwa0000038067735,Reading from DHT11,[],dht11
+601,41,3266365,DHT11 Readings,mwa0000038067838,Readings from DHT11 (ESP32),[],dht11
+602,41,3266385,DHT11 Reading,mwa0000038067685,Reading from DHT11 (ESP32),[],dht11
+603,41,3266439,Estacion Meteorologi...,mwa0000040482477,Monitoreo de temperatura y humedad con Arduino y ESP8266,[],temp
+604,41,3262499,Store 16 Freezers,mwa0000040452570,Freezer monitoring for Store 16,[],Unknown
+605,41,2849054,MPU data,mwa0000019220661,-,[],Unknown
+606,41,3266287,Plant Watering Syste...,mwa0000040476269,Plant Watering System - Internet of Things (IoT) Project,[],water
+607,41,1072418,Server room,vosarno,"Temperature and humidity, Pi3, DHT 22 / Pi6 ds18b20",[],"temperature, temp, humidity"
+608,41,3245799,MyShodnay,mwa0000039846543,TempOut,[],temp
+609,41,3237866,CONTROLE DE TEMPERAT...,mwa0000040241967,Realizar o controle de temperatura e Humidade em um jardim artificial.,[],temp
+610,41,565191,esp32 si7021 olohuone,piisamirotta59,tää on v1,[],Unknown
+611,41,3082441,Calidad del aire en ...,mwa0000016899153,Bienvenido a nuestro canal. Calidad del aire en El Carpio es un canal de pruebas para monitorizar los datos de la calidad del aire en movilidad y climatización. Un proyecto de recogida de datos del Departamento de Tecnología del IES Garci Méndez,[],Unknown
+612,41,3266224,Deepak,mwa0000040479679,Streaming sensor data,[],Unknown
+613,41,3194050,IOTVZLA4,mwa0000039839924,MONITOREO TEMPERATURA HUMEDAD PROCESO Y AMBIENTE,[],temp
+614,41,3266221,DHT11_KushMunjal,mwa0000038410329,Streaming sensor data,[],Unknown
+615,41,3204523,Granja Padrão,mwa0000039833130,"Demonstração de controle ambiental padrão de granjas, com controle de temperatura e umidade relativa independentes.",[],temp
+616,42,626791,Heating State Upstairs,toinesiebelink67,Shows where Heat is turned on,[],Unknown
+617,42,581282,Heating State Downst...,toinesiebelink67,Displays which rooms are being heated downstairs,[],Unknown
+618,42,3090819,Estação - Agudela (M...,mwa0000038936053,Estação meteorológica - Agudela (Matosinhos),[],Unknown
+619,42,3246166,Lithium guard,mwa0000040328324,monitoring battery in power bank,[],power
+620,42,3266190,Smart agriculture,mwa0000034264602,Hzjnxhdyhxgx,[],Unknown
+621,42,3254647,SmartDrop,mwa0000040396247,Ақылды тамшылатып суару жүйесі,[],Unknown
+622,42,3243723,Prima cirqua monitor...,mwa0000039174024,"2nd set: 4 sensors with 5 quantities: PH, Temp, EC, Turbi, and DO",[],temp
+623,42,3253966,Station meteo,mwa0000040388340,station meteo arduino,[],Unknown
+624,42,3247567,ESP32 SIM7000G Cloud...,mwa0000034770264,Sensor data sent from ESP32 using SIM7000G cellular module,[],Unknown
+625,42,2084596,AirQo-G5162,airqodata02,Air quality monitor for kudho junior school,[],air quality
+626,42,3266030,esp32,mwa0000040023860,writing value,[],Unknown
+627,42,3266022,Field 1,mwa0000040475706,data collection,[],Unknown
+628,42,3266021,Field 1,mwa0000040475971,First time data collection,[],Unknown
+629,42,3266019,ChannelArhan,mwa0000040284660,First Time data collection,[],Unknown
+630,42,3266020,Temperature_monitor,mwa0000040475940,this channel shows tempreature,[],temp
+631,43,3264585,Multi Sensor Environ...,mwa0000033004475,Final Year Project,[],Unknown
+632,43,3265988,C_cyberphysics_Weather,mwa0000040475907,weather station for Vt lab,[],Unknown
+633,43,3266002,cloud platform,mwa0000040475726,first data holding platform,[],Unknown
+634,43,3266003,temperature_monitori...,mwa0000040475683,this channel use to store temperature data.,[],"temperature, temp"
+635,43,3265961,Iot_Lab,Shovan,Weather report,[],Unknown
+636,43,3265967,C_cyberphysics_Weather,mwa0000039454336,weather station for vt lab,[],Unknown
+637,43,3265989,TEMPERATURE MONITERING,mwa0000040475696,SHOWS TEMPERATURE AND HUMIDITY,[],"temperature, temp, humidity"
+638,43,3265986,C_CyberPhysics_Weather,mwa0000040475716,,"['temp', 'humidity', 'aqi']","temp, humidity"
+639,43,3265978,Group 4,mwa0000038299361,Weather for VT Lab,[],Unknown
+640,43,2809506,Hamster Running,mwa0000034045358,NDC - Grade 12 Students,[],Unknown
+641,43,3265765,Energy Meter,mwa0000040474564,log energy data,[],energy
+642,43,3234077,EL2008 Project,mwa0000040205563,A channel to store and display data for EL2008 IoT project.,[],Unknown
+643,43,3140867,GPS Tracking,mwa0000039441744,To detect the location of the object or person,[],Unknown
+644,43,3265622,SmartGreenhouseMonit...,mwa0000040358373,CIA Lab Test,[],Unknown
+645,43,3265473,Test kanal - 2026 3g if,mwa0000040473184,Test kanal - i forløb thingspeak,[],Unknown
+646,44,3265472,Test - IF B 2026,mwa0000040473179,Min test kanal,[],Unknown
+647,44,3265470,2026 3g if,mwa0000040473174,Ellens kanal,[],Unknown
+648,44,3265475,2026 3g if,mwa0000040473188,Astrid Projekt,[],Unknown
+649,44,3265471,2026 3g if,mwa0000040473173,MQs test kanal,[],Unknown
+650,44,3265468,2026 3g if,mwa0000040473180,Test kanal,[],Unknown
+651,44,3265469,3g Informatik,mwa0000040473183,Test kanal,[],Unknown
+652,44,2855408,Mettes test,mwa0000036980623,MQ tester ThingSpeak,[],Unknown
+653,44,651031,TESTING ESP,projectsiva,"A good drainage management is a symbol of good city. Now-a-days man-holes are the main problem in the cities. All
+the man-holes are not in secure position. Most of the drainage are in damaged condition. Because of the damaged
+drainage, there are chances",[],rain
+654,44,3265477,F-16 Fighting Falcon,mwa0000040473163,Loadout,[],Unknown
+655,44,3265466,Test,mwa0000040473166,Test kanal,[],Unknown
+656,44,3265474,2026 3g if,mwa0000040473170,mettes testkanal,[],Unknown
+657,44,3265414,ESP32 Smart Home,mwa0000040472968,"Temperature, Humidity, LED",[],"temperature, temp, humidity"
+658,44,3265124,IoT - BASED SMART GA...,iotmonitoringsys,IoT - BASED SMART GARBAGE DISPOSAL AND WASTE SEGREGATION SYSTEM,[],Unknown
+659,44,3264995,dillon,mwa0000040415981,iot job 10,[],Unknown
+660,44,3252279,MEDIDOR DE ENERGÍA D...,mwa0000038022800,"Es un proyecto de un medidor de energía, para poder medir los parámetros eléctricos básicos de los equipo de una vivienda ubicada en Chilca",[],Unknown
+661,45,3264987,MEDIDOR DE ENERGÍA D...,mwa0000038022800,Se realizo un medidor para poder analizar los parámetros eléctricos básicos de los equipos de una vivienda ubicado en El Tambo,[],Unknown
+662,45,3260461,daisy,mwa0000040441517,hello,[],Unknown
+663,45,3225890,IOT temperature and ...,mwa0000040104846,temperature and humidity,[],"temperature, temp, humidity"
+664,45,3264980,Temperature,mwa0000040471019,Temp. control method,[],temp
+665,45,262308,Teste,py1acv,teste,[],Unknown
+666,45,3264968,Monitor de Temperatu...,mwa0000040470692,Sistema de supervisión de temperatura y humedad usando ESP32 y DHT22,[],"temp, dht22"
+667,45,3258476,Herschede,mwa0000040426952,Clock pendulum analysis,[],Unknown
+668,45,3264524,FIAP-ATV-3-LEITURA-D...,mwa0000040462634,Atividade n*3 da FIAP,[],Unknown
+669,45,3264959,ergCanal,mwa0000040334524,RAM and CPU channel,[],Unknown
+670,45,3264956,Líheň,mwa0000040470174,Líheň,[],Unknown
+671,45,2048756,Oro Kokybė,mwa0000029338219,Oro kokybė,[],Unknown
+672,45,3263923,Напряжение в сети,klazarev,Напряжение и частота сети,[],Unknown
+673,45,3231587,Basement_Monitoring_...,mwa0000040116710,to detect rain or flood in basements,[],rain
+674,45,3264709,Trạm Khí Tượng,mwa0000040466953,do lường,[],Unknown
+675,45,3264877,Nir Atzion,mwa0000020710170,ERT in reservoirs,[],Unknown
+676,46,3264871,IOT Water Quality Me...,mwa0000040468748,IOT Water Quality Measurement System using Raspberry Pi and Machine Learning,[],water
+677,46,3264846,TRACKING SYSTEM,mwa0000037247700,Project of using  TTIGO-ESP32,[],Unknown
+678,46,3264839,data from Pi,mwa0000040468554,this is a test channel to view data from the raspberry Pi in a test environment,[],Unknown
+679,46,3262496,pH meter,mwa0000040452556,Mengukur pH cairan,[],Unknown
+680,46,2002375,Oil Tank Levels,mwa0000020951734,Monitoring home heating oil tank levels,[],Unknown
+681,46,3264501,Human Activity Monitor,mwa0000040464282,mmWave-based human activity intensity over time,[],Unknown
+682,46,3264775,HW2,mwa0000039978231,การบ้านครั้งที่2,[],Unknown
+683,46,3264477,weerstation,mwa0000040463896,thuis weerstation,[],Unknown
+684,46,3264429,LiangJiang_Monitor,mwa0000040463148,ZhanJiang LiangJiang Soil&Env Monitor,[],soil
+685,46,3177110,H2O WATCHDOG,mwa0000038133676,IOT based Water Quality Monitoring System,[],water
+686,46,3254332,weight detection,mwa0000040393310,weight in kg,[],Unknown
+687,46,3218346,PHANLOAI,mwa0000030586012,LINK VNET WECON,[],Unknown
+688,46,3264633,IOT WEATHER STATION,mwa0000040433836,AURDINO IOT HUMIDITY DATA,[],humidity
+689,46,3264628,DSB WIFI TI 243/3264628,mwa0000040439340,Nextcon LTDA,[],Unknown
+690,46,3264626,DSB WIFI TI 243/3264626,mwa0000040439340,Nextcon LTDA,[],Unknown
+691,47,3264625,DSB WIFI TI 243/3264625,mwa0000040439340,Nextcon LTDA,[],Unknown
+692,47,3264624,DSB WIFI TI 243/3264624,mwa0000040439340,Nextcon LTDA,[],Unknown
+693,47,3264622,Water Monitoring System,mwa0000039283862,Water Monitoring System,[],water
+694,47,3264623,DSB WIFI TI 242/3264623,mwa0000040439329,Nextcon LTDA,[],Unknown
+695,47,3264620,DSB WIFI TI 242/3264620,mwa0000040439329,Nextcon LTDA,[],Unknown
+696,47,3264619,DSB WIFI TI 242/3264619,mwa0000040439329,Nextcon LTDA,[],Unknown
+697,47,3264618,DSB WIFI TI 242/3264618,mwa0000040439329,Nextcon LTDA,[],Unknown
+698,47,3264617,DSB WIFI TI 241/3264617,mwa0000040439323,Nextcon LTDA,[],Unknown
+699,47,3264616,DSB WIFI TI 241/3264616,mwa0000040439323,Nextcon LTDA,[],Unknown
+700,47,3264615,DSB WIFI TI 241/3264615,mwa0000040439323,Nextcon LTDA,[],Unknown
+701,47,3264614,DSB WIFI TI 241/3264614,mwa0000040439323,Nextcon LTDA,[],Unknown
+702,47,3264613,AHT WIFI TI 240/3264613,mwa0000040439316,Nextcon LTDA,[],Unknown
+703,47,3264612,AHT WIFI TI 240/3264612,mwa0000040439316,Nextcon LTDA,[],Unknown
+704,47,3264611,AHT WIFI TI 240/3264611,mwa0000040439316,Nextcon LTDA,[],Unknown
+705,47,3264610,AHT WIFI TI 240/3264610,mwa0000040439316,Nextcon LTDA,[],Unknown
+706,48,3264607,AHT WIFI TI 239/3264607,mwa0000040439300,Nextcon LTDA,[],Unknown
+707,48,3264606,AHT WIFI TI 239/3264606,mwa0000040439300,Nextcon LTDA,[],Unknown
+708,48,3264605,AHT WIFI TI 239/3264605,mwa0000040439300,Nextcon LTDA,[],Unknown
+709,48,3264604,AHT WIFI TI 239/3264604,mwa0000040439300,Nextcon LTDA,[],Unknown
+710,48,3264603,AHT WIFI TI 238/3264603,mwa0000040439265,Nextcon LTDA,[],Unknown
+711,48,3264602,AHT WIFI TI 238/3264602,mwa0000040439265,Nextcon LTDA,[],Unknown
+712,48,3264601,AHT WIFI TI 238/3264601,mwa0000040439265,Nextcon LTDA,[],Unknown
+713,48,3264599,AHT WIFI TI 238/3264599,mwa0000040439265,Nextcon LTDA,[],Unknown
+714,48,3264598,AHT WIFI TI 237/3264598,mwa0000040439246,Nextcon LTDA,[],Unknown
+715,48,3264597,AHT WIFI TI 237/3264597,mwa0000040439246,Nextcon LTDA,[],Unknown
+716,48,3264595,AHT WIFI TI 237/3264595,mwa0000040439246,Nextcon LTDA,[],Unknown
+717,48,754744,Mortens stue,mortennordby,Temp ved skrivepulten i stua,[],temp
+718,48,3264563,Plant intelligent,mwa0000033282519,Smart plant Iot Systeme,[],Unknown
+719,48,3264508,DHT22 + PM2.5,mwa0000040464405,ABA,[],Unknown
+720,48,3264533,Weather Station,mwa0000040464754,Weather Pressure Station,[],pressure
+721,49,2145829,WCPool,mwa0000030129960,Pool sensors,[],Unknown
+722,49,3258509,Bee IoT,mwa0000040414212,Uso de sensores para Tesis de Apicultura,[],Unknown
+723,49,3264520,Estacion_Meteorologi...,mwa0000040464466,"Proyecto IoT con ESP8266 para medir temperatura, humedad, luz y presión atmosférica en Facatativá.",[],temp
+724,49,3152075,Solar power monitori...,mwa0000039527935,Solar power monitoring system,[],power
+725,49,797029,Wetterdat FR,arduino4me,Das Zielsystem mit ext. WLAN-Antenne,[],Unknown
+726,49,3032148,ILP Gear Testing,mwa0000017208135,Life Test Of ILP Gear  Comp,[],Unknown
+727,49,3264459,Smart weather station,mwa0000040463699,"It gives info about the outside temp and humidity 
+And warns if temp is very hot or cold",[],"temp, humidity"
+728,49,3044930,HOME  AUTOMATION,mwa0000037731144,ON OFF,[],Unknown
+729,49,3264450,Weather Monitoring,mwa0000034575712,Farmland,[],Unknown
+730,49,2388050,N.A.And.Tlf_Verileri1,mwa0000032492853,2CihazKontrol,[],Unknown
+731,49,965025,Detva(DT),lubok82,"Detva, datovy terminal",[],Unknown
+732,49,3250988,Local Weather Monito...,mwa0000040352332,"A Weather Monitoring System using ESP8266 and ThingSpeak collects environmental data (like temperature, humidity, pressure, etc.) and sends it to the ThingSpeak IoT cloud over Wi-Fi for real-time monitoring and graphs.",[],"temperature, temp, humidity, pressure"
+733,49,3263752,Rinex_IOT_Feb-26_Demo,mwa0000032232473,,['#dht22'],dht22
+734,49,3264379,test,mwa0000036913395,it's test,[],Unknown
+735,49,1597304,F30 (17-24),lm6369243,DEMO,[],Unknown
+736,50,1480654,F30 (9-16),lm6369243,DEMO,[],Unknown
+737,50,1435132,F30 (1-8),lm6369243,DEMO,[],Unknown
+738,50,3264205,Energieverbrauch Haus,mwa0000040462143,"Test - Gesamtverbrauch im Haus, PV + Verteilungsnetz und Verbrauch E-Transit",[],Unknown
+739,50,3264229,sewage water decetetion,mwa0000031450022,A sensor-based detection system is installed in the drainage pipe to detect water stagnation (stuck condition) and alert authorities or users immediately.,[],"water, rain"
+740,50,3264077,Beckhoff to LabVIEW ...,mwa0000040461689,This is a test project,[],Unknown
+741,50,3264130,Channel trial A01NYUB,mwa0000030664278,Untuk percobaan,[],Unknown
+742,50,3264140,Wifi Checking,mwa0000039781066,checker,[],Unknown
+743,50,3245900,Anjali,mwa0000040310700,Anjali,[],Unknown
+744,50,3264128,WOMEN SAFETY,mwa0000039336043,WOMEN SAFETY,[],Unknown
+745,50,1290039,AIRQO-G503 UNIT ACTIVE,airqodata02,gen5 device at nakawa colocation farmy,[],Unknown
+746,50,3264040,Intruder Alert System,mwa0000036126941,"Monitors IR & Ultrasonic Sensors, Buzzer, LCD",[],ultrasonic
+747,50,3263996,Flood Alart System,mwa0000040461247,IOT,[],Unknown
+748,50,3263961,Krishna Samanta,mwa0000040461056,Health Monitoring System,[],Unknown
+749,50,3255086,Smart Solar Bench,mwa0000040402589,"Monitorim ne kohe reale,i temperatures,lageshtires,presionit atmosferik dhe rezistences se gazit(BME680),i integruar ne nje stol inteligjent per ambiente publike dhe sherbime shtese Wi Fi Free,Phone Charge,Ndriçim automatik,Bluetooth,Wireless Charger.",[],"temperature, temp"
+750,50,3252326,Matlab/simulink Moni...,mwa0000019458053,Li ion Battery voltage monitoring,[],voltage
+751,51,3194205,Pierwszy kanal,mwa0000039842223,Test,[],Unknown
+752,51,2320788,VAAD IOT,mwa0000031861461,VAAD CANAL DE PRUEBAS IOT,[],Unknown
+753,51,3263909,DSB WIFI TI 237/3263909,mwa0000040439246,Nextcon LTDA,[],Unknown
+754,51,3263908,DSB WIFI TI 236/3263908,mwa0000040439237,Nextcon LTDA,[],Unknown
+755,51,3263906,DSB WIFI TI 236/3263906,mwa0000040439237,Nextcon LTDA,[],Unknown
+756,51,3263904,DSB WIFI TI 236/3263904,mwa0000040439237,Nextcon LTDA,[],Unknown
+757,51,3263903,DSB WIFI TI 236/3263903,mwa0000040439237,Nextcon LTDA,[],Unknown
+758,51,3263902,DSB WIFI TI 235/3263902,mwa0000040439222,Nextcon LTDA,[],Unknown
+759,51,3263901,DSB WIFI TI 235/3263901,mwa0000040439222,Nextcon LTDA,[],Unknown
+760,51,3263900,DSB WIFI TI 235/3263900,mwa0000040439222,Nextcon LTDA,[],Unknown
+761,51,2829732,Northwood School Wea...,mwa0000036746211,"Weather data is from a school-built station in Northwood NH. The station is equipped with a BME280 sensor, Argent  instruments, and Raspberry Pi 4 programmed in Python.",[],bme280
+762,51,3073649,JU_DSP_FC,mwa0000037335953,It stores the SU informtion for various CSS based CR networks computed in and around JU.,[],Unknown
+763,51,2828980,Channel 2828980,mwa0000036424686,Detect DC voltage,[],voltage
+764,51,3244884,PM2.5,mwa0000040264849,,"['sydney', 'cbu', 'rockcliff', 'crescent']",Unknown
+765,51,2723256,IOT Test by MCG,mwa0000035793782,IOT projects with ESP 32 microcontroller,[],Unknown
+766,52,3263469,QRNG Secure Sensor Data,mwa0000034084267,Sensor data secured using QRNG-based hashing and signing (ESP8266),[],Unknown
+767,52,3260063,cbu,mwa0000040316424,air quality,[],air quality
+768,52,2823954,Temperatura y humedad.,mwa0000024231183,"Por medio de DHT11, DHT22 y BMP180, estación dentro de Eléctrica Electrónica de Instituto Tecnológico de Puebla.  contacto: proferomeod@gmail.com",[],"dht11, dht22, bmp180"
+769,52,1238799,Casa al Mare,robyroby58,Temperatura Aria e umidità nella casa al mare,[],temp
+770,52,3214547,demo,mwa0000039969628,,['cdmtemp'],temp
+771,52,3263762,Smart energy consump...,mwa0000025585866,IOT,[],Unknown
+772,52,3263672,IoT Lab ESP32 experi...,mwa0000040456191,kitty goes meow meow,[],Unknown
+773,52,3263701,CAT1,mwa0000040456429,ambient sensor,[],Unknown
+774,52,3263671,BASE PROJECT,mwa0000040289080,"Integrating CAN, Date and time, Server, WiFi",[],Unknown
+775,52,3242047,FieldMonitor,FieldMonitor,Wetterstation mit DPTechnics Walter ESP32-S3 Board,[],Unknown
+776,52,3209358,REDUCING EMERGENCY R...,mwa0000033701780,"Emergency medical services depend heavily on quick and efficient ambulance response to save lives during critical situations. However, in most urban areas, heavy traffic congestion
+and slow manual traffic control systems create significant delays, preven",[],Unknown
+777,52,3145420,moisture sensor,reddy6304025716,iot project using moisture sensor,[],moisture
+778,52,3263452,Soil Moisture monito...,mwa0000038262483,Measurement of soil Moisture using sensors,[],"soil, moisture"
+779,52,3263516,EXP 9,mwa0000034340821,UPLOADING DATA,[],Unknown
+780,52,3263326,Hum & Tem,mwa0000030824700,Reading temperatue values and humidity values,[],"temp, humidity"
+781,53,3263502,EXP-9,mwa0000034478558,DATA,[],Unknown
+782,53,3263421,Capteur DHT CIEL,mwa0000040454706,Capteur de température et d'humidité,[],temp
+783,53,3263275,ROBO CULTURE DASHBOARD,mwa0000040454446,Agriculture station,[],Unknown
+784,53,3263480,exp9,mwa0000034446132,uploading,[],Unknown
+785,53,3263478,EXP_9,mwa0000034333859,uploading data,[],Unknown
+786,53,3263465,exp9,mwa0000034446166,uploading,[],Unknown
+787,53,3263470,EXP 9,mwa0000034446137,UPLOADING DATA,[],Unknown
+788,53,3263462,Weather Monitoring,mwa0000040455178,Measurement of weather using sensors,[],Unknown
+789,53,3263415,exp 9,mwa0000034446171,uploading,[],Unknown
+790,53,3263382,exp9,mwa0000034446145,uploading,[],Unknown
+791,53,3263376,EXP 9,mwa0000034446178,Uploading Data,[],Unknown
+792,53,3263353,Proyecto IoT 2mnt Ja...,mwa0000040454564,Recogida de datos de los sensores de temperatura,[],temp
+793,53,3248989,Optativa,Olgagarciatruji,Clase de optativa,[],Unknown
+794,53,3263349,exp9,mwa0000034353725,Reading temperature and humidity readings,[],"temperature, temp, humidity"
+795,53,3263343,exp9,mwa0000034333720,humidity and temperature,[],"temperature, temp, humidity"
+796,54,3263338,exp9,mwa0000034376916,reading temp&hum,[],temp
+797,54,3263330,exp9,mwa0000034354317,reading temp and humidity values,[],"temp, humidity"
+798,54,3263322,Exp9,mwa0000034354740,Reading temperature and humidity values,[],"temperature, temp, humidity"
+799,54,3263339,exp-9,mwa0000034363320,Reading humidity and temperature values,[],"temperature, temp, humidity"
+800,54,3263323,Humi&Temp,mwa0000034326445,reading temperature &humidity,[],"temperature, temp, humidity"
+801,54,3263341,Exp 9,mwa0000034363228,Reading,[],Unknown
+802,54,3263321,Hum & Tem,mwa0000034319327,...,[],Unknown
+803,54,3263328,IOT EXP 9,mwa0000034326824,SENSORING TEMPERATURE AND HUMADITY VALUES.,[],"temperature, temp"
+804,54,3263340,Exp9,mwa0000034327369,reading the humidity and temperature values,[],"temperature, temp, humidity"
+805,54,3263342,exp 9,mwa0000034340185,reading temperature & humidity,[],"temperature, temp, humidity"
+806,54,3263336,Humidity&temperature,mwa0000034319382,matlkab,[],Unknown
+807,54,3263316,Capteur DHT CIEL,mwa0000040454794,Capteur de température et d'humidité,[],temp
+808,54,3253826,Capteur DHT CIEL,mwa0000040386912,Capteur de température et d'humidité,[],temp
+809,54,3253640,Capteur DHT,mwa0000040386323,Capteur de température et d'humidité,[],temp
+810,54,80039,ESP_8266,yhnm00,home,[],Unknown
+811,55,3263276,Capteur DHT CIEL,mwa0000034920352,Capteur de température et d'humidité,[],temp
+812,55,3263271,Capteur DHT CIEL,mwa0000040454449,Capteur de température et d'humidité,[],temp
+813,55,3253135,esp 32,mwa0000040384354,sensor reading,[],Unknown
+814,55,3253258,嘘,mwa0000040384674,666,[],Unknown
+815,55,3262764,exp9,mwa0000034392511,temperature and humidity,[],"temperature, temp, humidity"
+816,55,3262607,Humidity Temperature...,mwa0000040453071,"In this tutorial, we will learn how to monitor humidity and temperature using the DHT11 sensor and NodeMCU ESP8266, and then upload the readings to the ThingSpeak cloud server. The DHT11 will be used to measure temperature and humidity, while ThingSpeak w",[],"temperature, temp, humidity, dht11"
+817,55,3262719,dhtexp9,mwa0000034282492,calculation of  temperature and humidity,[],"temperature, temp, humidity"
+818,55,3262694,exp9,mwa0000034318898,temperature and humidity data,[],"temperature, temp, humidity"
+819,55,3262685,DHT11,mwa0000034260867,Temp and Hum reading,[],temp
+820,55,3262672,dhtexp9,mwa0000034370544,calculation of temperature and humidity,[],"temperature, temp, humidity"
+821,55,3262664,exp9,mwa0000034260870,temperature and humidity,[],"temperature, temp, humidity"
+822,55,3262666,exp9,mwa0000034226530,temperature and humidity,[],"temperature, temp, humidity"
+823,55,3262667,exp9,mwa0000034226523,calculation of temp and humidity,[],"temp, humidity"
+824,55,3262669,Temp&Humi,mwa0000034491977,caluclate the temperature and humdity,[],"temperature, temp"
+825,55,3262665,DHT,mwa0000034244578,Calculation of temperature and humidity,[],"temperature, temp, humidity"
+826,56,3262668,EXPERIMENT 9,mwa0000034525487,calculation of temperature and humidity,[],"temperature, temp, humidity"
+827,56,3262541,iotvv,mwa0000040452865,"dance, song ^.^",[],Unknown
+828,56,3262534,iot01,mwa0000040452850,none stop,[],Unknown
+829,56,3262559,IoT G02,mwa0000039978312,13 / 02,[],Unknown
+830,56,3262511,Exp4,mwa0000036694515,Distance measurement,[],Unknown
+831,56,3262514,Experiment 4,mwa0000040452724,something,[],Unknown
+832,56,3262509,exp4,mwa0000040452724,woah,[],Unknown
+833,56,3262507,ultrasonic,mwa0000036620814,..,[],Unknown
+834,56,3239234,Granja IOT,mwa0000040256265,granja IoT Benedikta Zur NIeden,[],Unknown
+835,56,3259830,Automated Laundry Ra...,mwa0000039687628,"This channel stores real-time sensor and system data for an automated laundry rack system.
+The data is used to monitor rack movements",[],Unknown
+836,56,2433113,Voltages,mwa0000018649137,Mailbox and Server Voltages,[],voltage
+837,56,2818327,trial esp 8266,mwa0000036622234,24/1/25,[],Unknown
+838,56,3262329,Monitoring Kelistrik...,heldha040903,Pemantauan perameter kelistrikan antar fasa pada kapal patroli bea cukai 60001,[],Unknown
+839,56,3058769,Davi Leão  + João Ot...,arduinomanaus,"Experimento 03 - IoT e Novas Tecnologias
+Turma: YXXXX",[],Unknown
+840,56,3256508,SENSOR TEMPERATURA,mwa0000040409981,SENSOR DE TEMPERATURA Y HUMEDAD,[],temp
+841,57,3262266,Temperature Sensor Data,mwa0000032614194,Data from a temperature sensor in degrees K,[],"temperature, temp"
+842,57,2810701,Prototipo IoT Cultiv...,mwa0000036470478,"Diseño y desarrollo de un prototipo IoT destinado a monitorear los parámetros del agua de un cultivo multitrófico de Tilapia  y Langosta de Agua dulce, implementado en la Facultad de Ciencias Naturales de la Universidad de Guayaquil",[],Unknown
+843,57,3255873,Python_Data,mwa0000040406190,Pythonista luettua dataa,[],Unknown
+844,57,3258187,sensores,mwa0000040158310,proyecto,[],Unknown
+845,57,3262245,LUz_microbit,mwa0000040449809,Este es un test de canal,[],Unknown
+846,57,3262242,luz_microbit,mwa0000040449785,Test de canal,[],Unknown
+847,57,206143,Savonjoen lämpötilat,makezzi,mökin datat,[],Unknown
+848,57,2283292,Prueba1,ediloco321,Datos carga moto,[],Unknown
+849,57,3262236,luz_microbit,mwa0000040449763,Monitor de luz IoT,[],Unknown
+850,57,3262234,luz_microbit,mwa0000040449752,este es un test del canal,[],Unknown
+851,57,3262231,Luz_microbit,mwa0000040449696,test de canal,[],Unknown
+852,57,3262226,EDUCACONTMB,mwa0000040143959,Proyecto de monotorización de calidad del aire,[],Unknown
+853,57,2987094,TICTACS Citizen Scie...,mwa0000037964017,"TICTACS - Tool for Investigating Closed Terrariums Assisted by Citizen Scientists
+
+This project seeks to understand ecological dynamics through a low-cost distributed network of closed ecosystem monitoring suites.",[],Unknown
+854,57,3262172,WILDLIFE SURVILENCE,mwa0000035571402,CIRCUITECH,[],Unknown
+855,57,3262170,Energy Monitor Stati...,mwa0000039723444,Суточные метрики работы холодильника,[],Unknown
+856,58,3175740,Schnauzer Mini Heat ...,electgpl,"Heat Index for Comfortable Weather Environment for Schnauzer Mini, based on the Tufts Animal Condition Care (TACC) scale.
+Hardware: ESP32S3 - BMP280 - SHT31",[],bmp280
+857,58,3262009,Attendance Analytics,mwa0000040273270,RFID Attendance System - Time IN/OUT/Register Monitoring,[],rfid
+858,58,387801,Sensor Set 1 Downstairs,toinesiebelink67,Temperature Sensors Manifold,[],"temperature, temp"
+859,58,3262102,AHT WIFI TI 235/3262102,mwa0000040439222,Nextcon LTDA,[],Unknown
+860,58,3262096,AHT WIFI TI 234/3262096,mwa0000040439087,Nextcon LTDA,[],Unknown
+861,58,3262069,bin notifier,mwa0000038163875,"prince hackathon ,  waste segregation, alert",[],Unknown
+862,58,1828772,Estação meteorológic...,mwa0000027114602,"Instalada 12 jan 2023
+Manutenção do sensor de precipitação (teias) no dia 8 de outubro de 2024",[],Unknown
+863,58,3260008,Home_Temp,cj0310au,Home Temperature,[],"temperature, temp"
+864,58,3084753,Temperature and Humi...,mwa0000038859613,IoT based temperature and humidity monitoring system using NodeMCU and DHT22 sensor. Data is uploaded to ThingSpeak and monitored through Telegram bot with alert system.,[],"temperature, temp, humidity, dht22"
+865,58,3260082,Litime BMS,mwa0000040436454,140 AH LiFePo Akku Zustand,[],Unknown
+866,58,3254827,Υγρασία - Ατμοσφαιρι...,mwa0000037184479,"Υγρασία εδάφους είναι η ποσότητα του νερού που είναι δεσμευμένη στους πόρους του εδάφους (μεταξύ των κόκκων του χώματος).
+Η υπεριώδης ακτινοβολία (UV) έχει σημαντική επίδραση στις καλλιέργειες, λειτουργώντας τόσο ως παράγοντας στρες όσο και ως ρυθμιστής",[],Unknown
+867,58,3261757,DHT 11,mwa0000040445265,Humidity and Temperature Server,[],"temperature, temp, humidity"
+868,58,2850818,FAULT DETECTION,mwa0000035676419,fault diagnosis of induction motor,[],Unknown
+869,58,3261710,TEMPERATURE MONITORING,mwa0000040444990,LM35 TEMPERATURE SENSOR,[],"temperature, temp"
+870,58,3261562,"IOT PROJ ( 33 , 34 ,...",mwa0000036630128,Distance Using Ultrasonic,[],ultrasonic
+871,59,3258350,AQi,mwa0000040424558,for measuring  level of air quality,[],air quality
+872,59,3261348,"IOT PROJ ( 33 , 34 ,...",mwa0000036630128,"Distance using 
+Ultrasonic",[],ultrasonic
+873,59,1643205,Poids 1 / 2 / 3 / 4 ...,Daniel67,Test pour afficher des datas par Lionel,[],Unknown
+874,59,3261308,Tem&Hum,mwa0000040444149,ESIOT,[],Unknown
+875,59,3261143,Exp_4 Ultrasonic Sen...,mwa0000036630480,It displays the distance of the object from the ultrasonic sensor and displays the reading.,[],ultrasonic
+876,59,3261259,exp8,mwa0000035846554,dht11,[],dht11
+877,59,3261249,exp9,mwa0000035023769,esiot,[],Unknown
+878,59,3261241,Tem&Hum,mwa0000035054722,Temperature and Humidity values are displayed,[],"temperature, temp, humidity"
+879,59,3261233,Temp&Hum,mwa0000034505756,Temperature and humidity,[],"temperature, temp, humidity"
+880,59,3261227,exp 4 grp 3,mwa0000036630178,oled distance monitor with graph included absolutely free,[],Unknown
+881,59,2007543,HO6-Pompa Quide- CH ...,mwa0000024864411,HO6-Pompa  Guinea- CH 2007543,[],Unknown
+882,59,3148778,Smart Bandage Server,mwa0000036640081,just for data upload of FYDP project,[],Unknown
+883,59,1334856,API Meteored Duhau,Pampero4,,[],Unknown
+884,59,2870197,DC_Assignment,mwa0000030541121,,[],Unknown
+885,59,1271411,Beelogger Universal ...,mwa0000020057299,,[],Unknown
+886,60,3268833,Channel 3268833,mwa0000040498654,,[],Unknown
+887,60,2313782,ExperimentOZOREN,mwa0000031772142,,[],Unknown
+888,60,3268766,W Channel ♥,mwa0000039653754,,[],Unknown
+889,60,2037501,"MOTOR, LED and BUZZE...",mwa0000029215960,,[],Unknown
+890,60,1460876,MQTT,vosarno,,[],Unknown
+891,60,3264979,live gold prices,mwa0000040466581,,[],Unknown
+892,60,3253255,666666,mwa0000040384770,,[],Unknown
+893,60,3262256,Estació Meteorològica,mwa0000040450226,,[],Unknown
+894,60,247718,ss,kusc00,,[],Unknown
+895,60,2513689,Model Node 1,mwa0000033742813,,[],Unknown
+896,60,1105742,Measurement and plot...,priyankaa13,,[],Unknown
+897,60,326743,chelyabinsk,free0u,,[],Unknown
+898,60,843358,Pi,kalmar17a,,[],Unknown
+899,60,857281,UPS,kalmar17a,,[],Unknown
+900,60,2609525,Node2,mwa0000034512686,,[],Unknown
+901,61,326743,chelyabinsk,free0u,,[],Unknown
+902,61,843358,Pi,kalmar17a,,[],Unknown
+903,61,857281,UPS,kalmar17a,,[],Unknown
+904,61,2609525,Node2,mwa0000034512686,,[],Unknown
+905,61,2848679,Zadanie 1.4,mwa0000027380210,,[],Unknown
+906,61,2609579,Node2,mwa0000034493220,,[],Unknown
+907,61,2608521,node 1,mwa0000034511076,,[],Unknown
+908,61,229632,Temperatura Grudziądz,lurym89,,[],Unknown
+909,61,2608452,node 2,mwa0000034504308,,[],Unknown
+910,61,1060527,Uusi,mwa0000018135078,,[],Unknown
+911,61,2436604,Model 1,mwa0000029629506,,[],Unknown
+912,61,2552414,Model Node 1 Data,mwa0000024953425,,[],Unknown
+913,61,2436860,Node1,mwa0000033027145,,[],Unknown
+914,61,2437182,Monitoring,mwa0000033032153,,[],Unknown
+915,61,2514083,Node2,mwa0000033710070,,[],Unknown
+916,62,2436604,Model 1,mwa0000029629506,,[],Unknown
+917,62,2552414,Model Node 1 Data,mwa0000024953425,,[],Unknown
+918,62,2436860,Node1,mwa0000033027145,,[],Unknown
+919,62,2437182,Monitoring,mwa0000033032153,,[],Unknown
+920,62,2514083,Node2,mwa0000033710070,,[],Unknown
+921,62,2608075,node 1 channel,mwa0000034500132,,[],Unknown
+922,62,1105738,Measurement and Plot...,pujithsai6699,,[],Unknown
+923,62,2436851,Weather,mwa0000033008240,,[],Unknown
+924,62,3122732,Dew Point Measurement,mwa0000035055834,,[],Unknown
+925,62,2608485,Node 2,mwa0000034503395,,[],Unknown
+926,62,2337223,AIRQO_G5300,airqodata02,,[],Unknown
+927,62,2514275,Node 2,mwa0000033738782,,[],Unknown
+928,62,2550129,Node 2 data,mwa0000022676297,,[],Unknown
+929,62,2437141,Node 1,mwa0000033008249,,[],Unknown
+930,62,2852158,Estacion metereologi...,mwa0000036953675,,[],Unknown
+931,63,2437141,Node 1,mwa0000033008249,,[],Unknown
+932,63,2852158,Estacion metereologi...,mwa0000036953675,,[],Unknown
+933,63,2513482,Dew point measurement,mwa0000024818572,,[],Unknown
+934,63,1951330,GNIEZNO - Zdziechowa...,mwa0000018555385,,[],Unknown
+935,63,1951331,GNIEZNO - Zdziechowa...,mwa0000018555385,,[],Unknown
+936,63,2608184,node 1,mwa0000034500338,,[],Unknown
+937,63,2608208,Node 1,mwa0000034498010,,[],Unknown
+938,63,2068639,ZOOLOGY-observer,ZoologyLH,,[],Unknown
+939,63,2711768,C_晶創台江漁人場域,mwa0000029068820,,[],Unknown
+940,63,1207114,B. Aneesh Reddy (18B...,mwa0000018991490,,[],Unknown
+941,63,2513694,Dew Point Measurement,mwa0000033753826,,[],Unknown
+942,63,1105739,Measurement and Plot...,maulishrib,,[],Unknown
+943,63,574070,Koti,pietola,,[],Unknown
+944,63,2511684,Node 1,mwa0000033707745,,[],Unknown
+945,63,452935,opus,free0u,,[],Unknown
+946,64,574070,Koti,pietola,,[],Unknown
+947,64,2511684,Node 1,mwa0000033707745,,[],Unknown
+948,64,452935,opus,free0u,,[],Unknown
+949,64,368138,Ricampionato 10 minu...,agig66,,[],Unknown
+950,64,688201,Ricampionato 10 minu...,agig66,,[],Unknown
+951,64,2438587,model node2,mwa0000033026643,,[],Unknown
+952,64,352993,Ricampionato 10 minu...,agig66,,[],Unknown
+953,64,2513731,Node1,mwa0000033731163,,[],Unknown
+954,64,2436793,Model Node 1 data,mwa0000033010223,,[],Unknown
+955,64,3212174,test ws,vcherianTMW,,[],Unknown
+956,64,1631190,Halmetie,mwa0000016893515,,[],Unknown
+957,64,79164,Boiler flow temp,nostrebor,,[],Unknown
+958,64,1649196,Dew Measurement,shubham2001,,[],Unknown
+959,64,2434742,Weather Measurement,mwa0000032997148,,[],Unknown
+960,64,2388762,Innen,mwa0000027452147,,[],Unknown
+961,65,3212174,test ws,vcherianTMW,,[],Unknown
+962,65,1631190,Halmetie,mwa0000016893515,,[],Unknown
+963,65,79164,Boiler flow temp,nostrebor,,[],Unknown
+964,65,1649196,Dew Measurement,shubham2001,,[],Unknown
+965,65,2434742,Weather Measurement,mwa0000032997148,,[],Unknown
+966,65,2388762,Innen,mwa0000027452147,,[],Unknown
+967,65,2437776,Node-1,mwa0000033020283,,[],Unknown
+968,65,1358221,Dew Point Measurement,mwa0000020213109,,[],Unknown
+969,65,2436877,Node1,mwa0000033023083,,[],Unknown
+970,65,1742447,Bienenwaage Q1_1,mwa0000026495573,,[],Unknown
+971,65,2511325,Dew Measurement 2,vasanth459,,[],Unknown
+972,65,2608122,Node 2,mwa0000022515669,,[],Unknown
+973,65,2436949,Node 1,mwa0000033003728,,[],Unknown
+974,65,1300845,Dew Point Measurement,mwa0000019099730,,[],Unknown
+975,65,2649270,Environmental Dust a...,mwa0000034635577,,[],Unknown
+976,66,1300845,Dew Point Measurement,mwa0000019099730,,[],Unknown
+977,66,2649270,Environmental Dust a...,mwa0000034635577,,[],Unknown
+978,66,2437108,Weather,mwa0000033004486,,[],Unknown
+979,66,2513490,Model Node 1 data,mwa0000033742777,,[],Unknown
+980,66,2511611,Test,mwa0000033708635,,[],Unknown
+981,66,1444303,moxovich,mwa0000023104064,,[],Unknown
+982,66,2554356,Model Node 2,mwa0000034048539,,[],Unknown
+983,66,1951324,GNIEZNO - Gniezno #1...,mwa0000018555385,,[],Unknown
+984,66,1951325,GNIEZNO - Gniezno #2...,mwa0000018555385,,[],Unknown
+985,66,2174762,Dew Point Measurement,mwa0000030314487,,[],Unknown
+986,66,2609534,Node 2,mwa0000034517877,,[],Unknown
+987,66,2513664,Node 2,mwa0000033707745,,[],Unknown
+988,66,2608076,node 2 channel,mwa0000034500132,,[],Unknown
+989,66,2514971,Model Node 1,mwa0000024818572,,[],Unknown
+990,66,2608228,Node 2,mwa0000034509768,,[],Unknown
+991,67,2608228,Node 2,mwa0000034509768,,[],Unknown
+992,67,3078841,Razak Dew Point Meas...,mwa0000038786666,,[],Unknown
+993,67,1393084,Boiler and Buffer temp,phanna,,[],Unknown
+994,67,2925325,Dev point,vyacheslav78,,[],Unknown
+995,67,2636173,A_漢神國際_彌陀場域1,mwa0000029068820,,[],Unknown
+996,67,2815696,Laboratory,mwa0000036591229,,[],Unknown
+997,67,613853,Dew Point Measurement,studentnike,,[],Unknown
+998,67,1241658,API Meteored Trenque...,Pampero3,,[],Unknown
+999,67,1265953,Dew Point Measurement,mwa0000020686946,,[],Unknown
+1000,67,2607031,Dew Measurement,mwa0000020800823,,[],Unknown
+1001,67,1031621,Dew point measurement,mwa0000017411845,,[],Unknown
+1002,67,2510835,Dew Point Measurement,mwa0000033711543,,[],Unknown
+1003,67,2513665,NODE2,mwa0000033742157,,[],Unknown
+1004,67,1656904,ProudVsen,cen123,,[],Unknown
+1005,67,2553443,Model Node 1 Data,mwa0000034002803,,[],Unknown
+1006,68,2510835,Dew Point Measurement,mwa0000033711543,,[],Unknown
+1007,68,2513665,NODE2,mwa0000033742157,,[],Unknown
+1008,68,1656904,ProudVsen,cen123,,[],Unknown
+1009,68,2553443,Model Node 1 Data,mwa0000034002803,,[],Unknown
+1010,68,2514418,Node 2,mwa0000033747159,,[],Unknown
+1011,68,2032147,First try,mwa0000020195676,,[],Unknown
+1012,68,1073230,Mökin sisäilmankoste...,mwa0000017462533,,[],Unknown
+1013,68,2434719,Temperature_Measurement,mwa0000032990953,,[],Unknown
+1014,68,1680623,Dew Point Measurement,mwa0000019551333,,[],Unknown
+1015,68,2436862,Node 1,mwa0000032986358,,[],Unknown
+1016,68,2512203,Node 2,mwa0000033733819,,[],Unknown
+1017,68,2848661,Dew Point Calculation,mwa0000027380210,,[],Unknown
+1018,68,2514121,Node 1,mwa0000033711591,,[],Unknown
+1019,68,1681359,Dew Point Measurement,mwa0000024023314,,[],Unknown
+1020,68,2851853,Air Quality in Germany,mwa0000025587245,,[],Unknown
+1021,69,2848661,Dew Point Calculation,mwa0000027380210,,[],Unknown
+1022,69,2514121,Node 1,mwa0000033711591,,[],Unknown
+1023,69,1681359,Dew Point Measurement,mwa0000024023314,,[],Unknown
+1024,69,2851853,Air Quality in Germany,mwa0000025587245,,[],Unknown
+1025,69,2608459,Node2,mwa0000034502569,,[],Unknown
+1026,69,2084561,AirQo-G5145,airqodata02,,[],Unknown
+1027,69,2627608,Dew Point Measurement,mwa0000034675032,,[],Unknown
+1028,69,1086579,Dew Point Measurement,chhavi321,,[],Unknown
+1029,69,538670,columbus,free0u,,[],Unknown
+1030,69,2608464,node 2,mwa0000034500499,,[],Unknown
+1031,69,2327775,Dew Point Measurement,mwa0000028705456,,[],Unknown
+1032,69,2436601,Node 1,mwa0000033026464,,[],Unknown
+1033,69,1798549,Wind &Solar Power Test,mwa0000019065934,,[],Unknown
+1034,69,2437118,Node2,mwa0000033015384,,[],Unknown
+1035,69,1676687,AQI and Dew Point Te...,mwa0000022632550,,[],Unknown
+1036,70,2514974,Model Node 2,mwa0000024818572,,[],Unknown
+1037,70,2609528,Node 1,mwa0000034517877,,[],Unknown
+1038,70,2435356,Model   Node 1 Data,mwa0000025711165,,[],Unknown
+1039,70,2608188,Node 2,mwa0000034500338,,[],Unknown
+1040,70,1036315,Dew Point Measurement,mwa0000017032531,,[],Unknown
+1041,70,2437127,Modal Data 1,mwa0000033008991,,[],Unknown
+1042,70,1358190,Dew Point Measurement,mwa0000020239882,,[],Unknown
+1043,70,2438583,Node 1.0,mwa0000032991167,,[],Unknown
+1044,70,1193715,Dew Point Measurement,mwa0000020022001,,[],Unknown
+1045,70,2608124,Node 1,mwa0000034500090,,[],Unknown
+1046,70,2436854,Node 1,mwa0000033008312,,[],Unknown
+1047,70,1648939,Exp 2,tejaswinidesai23,,[],Unknown
+1048,70,2436824,Weather Data,mwa0000032968955,,[],Unknown
+1049,70,583385,Hämäläistentie ulkol...,toroti,,[],Unknown
+1050,70,1305835,Dew Point Measurement,mwa0000019985620,,[],Unknown
+1051,71,583385,Hämäläistentie ulkol...,toroti,,[],Unknown
+1052,71,1305835,Dew Point Measurement,mwa0000019985620,,[],Unknown
+1053,71,2407585,Water station,mwa0000030003816,,[],Unknown
+1054,71,2608591,node 1,mwa0000034501232,,[],Unknown
+1055,71,2514453,node 1,mwa0000033729847,,[],Unknown
+1056,71,2055346,wind and solar power...,mwa0000019059637,,[],Unknown
+1057,71,2513468,Dew Point Measurement,mwa0000033710070,,[],Unknown
+1058,71,2101095,Dew Point Measurement,mwa0000029817882,,[],Unknown
+1059,71,2451894,Battery Monitoring S...,mwa0000033026643,,[],Unknown
+1060,71,403114,Test,rgruber,,[],Unknown
+1061,71,2608862,node 2,mwa0000034502893,,[],Unknown
+1062,71,2608871,NODE 1,mwa0000034492500,,[],Unknown
+1063,71,2510721,Dew point measurement,mwa0000033712023,,[],Unknown
+1064,71,1535528,TČ posledních 10h,mwa0000021525572,,[],Unknown
+1065,71,2437247,Node 1 & Node 2,mwa0000033014473,,[],Unknown
+1066,72,2608871,NODE 1,mwa0000034492500,,[],Unknown
+1067,72,2510721,Dew point measurement,mwa0000033712023,,[],Unknown
+1068,72,1535528,TČ posledních 10h,mwa0000021525572,,[],Unknown
+1069,72,2437247,Node 1 & Node 2,mwa0000033014473,,[],Unknown
+1070,72,2608175,Node 2,mwa0000034501766,,[],Unknown
+1071,72,1976169,Dew Measurement,mwa0000018642776,,[],Unknown
+1072,72,2610839,Node 2,mwa0000034508982,,[],Unknown
+1073,72,2537061,EIAQI,mwa0000024028930,,[],Unknown
+1074,72,2512734,Node2,mwa0000033710693,,[],Unknown
+1075,72,876544,Dew Point Measurment,hugo1112,,[],Unknown
+1076,72,2514346,Node1,mwa0000033729745,,[],Unknown
+1077,72,2449123,Battery Monitoring,mwa0000032995984,,[],Unknown
+1078,72,2084593,AirQo-G5161,airqodata02,,[],Unknown
+1079,72,2514449,Node1,mwa0000033734120,,[],Unknown
+1080,72,684035,Mittarit,riihesam,,[],Unknown
+1081,73,2900877,Dew Point Measurement,mwa0000037399740,,[],Unknown
+1082,73,2337226,AIRQO_G5301,airqodata02,,[],Unknown
+1083,73,2608445,node 1,mwa0000034504308,,[],Unknown
+1084,73,1105757,measurement and plot...,mwa0000018991471,,[],Unknown
+1085,73,2879696,Eason_Chris_Adit_Pla...,mwa0000026657249,,[],Unknown
+1086,73,2437143,Weather,mwa0000033032022,,[],Unknown
+1087,73,2512159,Assignment 1,mwa0000033707775,,[],Unknown
+1088,73,2512172,Node1,mwa0000033733819,,[],Unknown
+1089,73,2437682,Node 1,mwa0000033008229,,[],Unknown
+1090,73,2608153,Node 2,mwa0000034500090,,[],Unknown
+1091,73,2465060,Ev power measurement...,mwa0000021610133,,[],Unknown
+1092,73,2608166,Node 2,mwa0000034497506,,[],Unknown
+1093,73,2608869,Node 2,mwa0000034500650,,[],Unknown
+1094,73,2510949,Dew Point Measurement,mwa0000033709144,,[],Unknown
+1095,73,1925261,Lämpötila ja ilmanko...,mwa0000028244928,,[],Unknown
+1096,74,2608869,Node 2,mwa0000034500650,,[],Unknown
+1097,74,2510949,Dew Point Measurement,mwa0000033709144,,[],Unknown
+1098,74,1925261,Lämpötila ja ilmanko...,mwa0000028244928,,[],Unknown
+1099,74,2943030,Practica 3,mwa0000037001680,,[],Unknown
+1100,74,2514550,AquaLink,mwa0000033729801,,[],Unknown
+1101,74,2373534,ESP32 HygroTemp SUMMARY,mwa0000032370391,,[],Unknown
+1102,74,1676523,Dew Point Measurement,mwa0000023780110,,[],Unknown
+1103,74,2555412,Model Node 2,mwa0000034055483,,[],Unknown
+1104,74,2513562,Node 2,mwa0000019139600,,[],Unknown
+1105,74,2608822,Dew Point Measurement,mwa0000034512686,,[],Unknown
+1106,74,2943039,Sala Fabricación Cir...,mwa0000037328640,,[],Unknown
+1107,74,2513639,NODE 1,mwa0000033711980,,[],Unknown
+1108,74,1684737,Dew Point Measurement,mwa0000026052347,,[],Unknown
+1109,74,2512149,Dew Point Measurement,mwa0000033742454,,[],Unknown
+1110,74,2608167,Dew point,mwa0000034503395,,[],Unknown
+1111,75,2608822,Dew Point Measurement,mwa0000034512686,,[],Unknown
+1112,75,2943039,Sala Fabricación Cir...,mwa0000037328640,,[],Unknown
+1113,75,2513639,NODE 1,mwa0000033711980,,[],Unknown
+1114,75,1684737,Dew Point Measurement,mwa0000026052347,,[],Unknown
+1115,75,2512149,Dew Point Measurement,mwa0000033742454,,[],Unknown
+1116,75,2608167,Dew point,mwa0000034503395,,[],Unknown
+1117,75,1125554,my first thigspeak c...,mwa0000019275521,,[],Unknown
+1118,75,1458394,大立光LP4平均風速(m/s),mwa0000022589108,,[],Unknown
+1119,75,2437179,Node2,mwa0000033027997,,[],Unknown
+1120,75,2608457,node 1,mwa0000034500499,,[],Unknown
+1121,75,2511757,Node 1,mwa0000018087041,,[],Unknown
+1122,75,2607635,Node1,mwa0000034503404,,[],Unknown
+1123,75,2159883,AirQo-G5180,airqodata02,,[],Unknown
+1124,75,2436537,Dew Point,mwa0000033024913,,[],Unknown
+1125,75,3096125,Dew Point Measurement,mwa0000039010900,,[],Unknown
+1126,76,2436537,Dew Point,mwa0000033024913,,[],Unknown
+1127,76,3096125,Dew Point Measurement,mwa0000039010900,,[],Unknown
+1128,76,1365240,Dew point Measurement,mwa0000020239834,,[],Unknown
+1129,76,3202417,Sensor2test,mwa0000035494460,,[],Unknown
+1130,76,3051766,Dew Point Measurement,mwa0000028266494,,[],Unknown
+1131,76,2512123,Node 1,mwa0000033706956,,[],Unknown
+1132,76,2514686,Node 2,mwa0000033729857,,[],Unknown
+1133,76,2608142,Node 2,mwa0000034498127,,[],Unknown
+1134,76,2608585,Node 2,mwa0000034505113,,[],Unknown
+1135,76,1036270,Dew point measurement,mwa0000017076057,,[],Unknown
+1136,76,1032750,Week 5,mwa0000017592137,,[],Unknown
+1137,76,2609135,Node 1,mwa0000034500645,,[],Unknown
+1138,76,1360568,demo_exp_5i,mwa0000020943897,,[],Unknown
+1139,76,2436833,Node 1,mwa0000032993880,,[],Unknown
+1140,76,1003795,Week 5&6,mwa0000016924487,,[],Unknown
+1141,77,1790933,Data comm set2,mwa0000017641244,,[],Unknown
+1142,77,2020143,Temperature analysis,mwa0000028757033,,[],Unknown
+1143,77,3242237,Dew Point Measurement,mwa0000040288992,,[],Unknown
+1144,77,2514950,Node2,mwa0000033725516,,[],Unknown
+1145,77,2608859,node 1,mwa0000034502893,,[],Unknown
+1146,77,2512871,Node 2,mwa0000033712756,,[],Unknown
+1147,77,2608214,Node 1,mwa0000034509768,,[],Unknown
+1148,77,2513675,Model Node2 data,mwa0000033742777,,[],Unknown
+1149,77,2514443,Node 2,mwa0000033729745,,[],Unknown
+1150,77,2550128,Node 1 data,mwa0000022676297,,[],Unknown
+1151,77,1029838,Dew Point Measurement,mwa0000017664583,,[],Unknown
+1152,77,2514945,Node 1,mwa0000033725516,,[],Unknown
+1153,77,1681907,HW2,mwa0000017960969,,[],Unknown
+1154,77,1037425,IoT_Ren,mwa0000018151872,,[],Unknown
+1155,77,1341167,Dew Point Measurement,mwa0000022004166,,[],Unknown
+1156,78,1341167,Dew Point Measurement,mwa0000022004166,,[],Unknown
+1157,78,2513700,Model Node 2,mwa0000033742813,,[],Unknown
+1158,78,1278515,Dew Point Measurement,ctapiamultion,,[],Unknown
+1159,78,1003687,Dew Point Measurement,stephaniebutler,,[],Unknown
+1160,78,2609619,NODE2,mwa0000034493231,,[],Unknown
+1161,78,2518384,Humidex,mwa0000024028930,,[],Unknown
+1162,78,1343346,Dew Point Measurement,mwa0000022038995,,[],Unknown
+1163,78,2796734,Dew Point Measurement,mwa0000035902352,,[],Unknown
+1164,78,2436914,Node 1,mwa0000032995984,,[],Unknown
+1165,78,2510820,Dew Point Measurement,mwa0000033729305,,[],Unknown
+1166,78,2512229,Node 2,mwa0000033706956,,[],Unknown
+1167,78,2514336,Node 2 Data,mwa0000033742454,,[],Unknown
+1168,78,1667991,Data Communication -...,mwa0000021551461,,[],Unknown
+1169,78,1036796,Dew Point Measurement,mwa0000017066089,,[],Unknown
+1170,78,2514984,NODE1,mwa0000033731155,,[],Unknown
+1171,79,2514984,NODE1,mwa0000033731155,,[],Unknown
+1172,79,1105741,Channel 1,swapnadeep2k,,[],Unknown
+1173,79,2549181,Dew Point Measurement,mwa0000034004621,,[],Unknown
+1174,79,2514281,Node1,mwa0000033752706,,[],Unknown
+1175,79,2436959,Node 1,mwa0000033029171,,[],Unknown
+1176,79,2436736,Model Node 1 Data,mwa0000033004792,,[],Unknown
+1177,79,3208627,Dew Pointmeasurement,mwa0000039960314,,[],Unknown
+1178,79,1339502,Dew Point Measurement,mwa0000021999302,,[],Unknown
+1179,79,3165233,Data Comm. Assignment,mwa0000028771193,,[],Unknown
+1180,79,1002563,Dew Point Measurement,mwa0000017644889,,[],Unknown
+1181,79,1680527,Dew Point Measurements,mwa0000024461068,,[],Unknown
+1182,79,2608542,Node 1,mwa0000034505113,,[],Unknown
+1183,79,2608603,node 2,mwa0000034501232,,[],Unknown
+1184,79,2436850,Model Node 1 Data,mwa0000032992342,,[],Unknown
+1185,79,660785,Dew Point Measurement,skondaga,,[],Unknown
+1186,80,2608542,Node 1,mwa0000034505113,,[],Unknown
+1187,80,2608603,node 2,mwa0000034501232,,[],Unknown
+1188,80,2436850,Model Node 1 Data,mwa0000032992342,,[],Unknown
+1189,80,660785,Dew Point Measurement,skondaga,,[],Unknown
+1190,80,1028335,Dew Point Measurement,mwa0000016917018,,[],Unknown
+1191,80,2608479,node 1,mwa0000034500398,,[],Unknown
+1192,80,1347860,Asuinhuoneet,mwa0000018135078,,[],Unknown
+1193,80,1003692,Dew Point Measurement,mwa0000017090245,,[],Unknown
+1194,80,2608092,Node 1,mwa0000034498127,,[],Unknown
+1195,80,2511744,Dew Point Temperature,mwa0000033708788,,[],Unknown
+1196,80,857666,Networks,stanislas10,,[],Unknown
+1197,80,2556159,model ode 1 data,mwa0000034048482,,[],Unknown
+1198,80,1002528,Dew Point Measurement,mwa0000017078584,,[],Unknown
+1199,80,843367,Pi,stanislas10,,[],Unknown
+1200,80,857289,UPS,stanislas10,,[],Unknown
+1201,81,857289,UPS,stanislas10,,[],Unknown
+1202,81,1003688,Weather over the pas...,byrnec747,,[],Unknown
+1203,81,1003696,Average Humidity,byrnec747,,[],Unknown
+1204,81,1802164,Temp DC,mwa0000022599434,,[],Unknown
+1205,81,2513691,node1,mwa0000033712442,,[],Unknown
+1206,81,1380971,Dew Point Measurement,mwa0000022436833,,[],Unknown
+1207,81,782201,Dew Point Measurement,woodyloks,,[],Unknown
+1208,81,2513585,Node 1,mwa0000033709418,,[],Unknown
+1209,81,1002626,Dew Point Measurement,mwa0000017645756,,[],Unknown
+1210,81,1028355,Analysis/Scheduling ...,mwa0000017592117,,[],Unknown
+1211,81,1684922,Dew Point Measurement,mwa0000021257049,,[],Unknown
+1212,81,2514654,Node 1,mwa0000033732871,,[],Unknown
+1213,81,1739563,AirQo_G575,airqodata02,,[],Unknown
+1214,81,1358224,Dew Point Measurement,mwa0000020239947,,[],Unknown
+1215,81,1002619,Dew Point Measurement,mwa0000016976144,,[],Unknown
+1216,82,2548376,Dew point Measurement 2,mwa0000034002155,,[],Unknown
+1217,82,1681316,effects of Wind,mwa0000021939476,,[],Unknown
+1218,82,1681343,Dew Point Measurement,mwa0000020005558,,[],Unknown
+1219,82,2778056,Dht,mwa0000036209418,,[],Unknown
+1220,82,1332897,Dew Point Measurement,mwa0000021911357,,[],Unknown
+1221,82,1606119,AirQo_G549,airqodata02,,[],Unknown
+1222,82,2513693,Node1,mwa0000033706992,,[],Unknown
+1223,82,1028691,Dew Point Measurement,mwa0000017734157,,[],Unknown
+1224,82,1264677,Modul10,mwa0000020671867,,[],Unknown
+1225,82,1465736,Dew point measurement,mwa0000023445313,,[],Unknown
+1226,82,1336412,PruebaApp,mwa0000021972670,,[],Unknown
+1227,82,1383883,Dew point Measurement,mwa0000020239885,,[],Unknown
+1228,82,1358280,Dew Point Measurement,mwa0000019862322,,[],Unknown
+1229,82,2337261,AIRQO_G5308,airqodata02,,[],Unknown
+1230,82,1992596,Dew Point Measurement,mwa0000021732819,,[],Unknown
+1231,83,2312937,AIRQO_G5282,airqodata02,,[],Unknown
+1232,83,2155414,dew point measurment,mwa0000028419531,,[],Unknown
+1233,83,2553080,Dew Point Measurement,mwa0000034039035,,[],Unknown
+1234,83,1002631,Dew Point Measurement,mwa0000017645858,,[],Unknown
+1235,83,1649106,Dew Point Measurement,mwa0000017623988,,[],Unknown
+1236,83,1003799,Dew Point Measurement,mwa0000017106295,,[],Unknown
+1237,83,1031796,Dew Point measurement,mwa0000017592149,,[],Unknown
+1238,83,2354645,Dew Point Measurement,mwa0000031509531,,[],Unknown
+1239,83,2512981,Dew point measurement,mwa0000033707745,,[],Unknown
+1240,83,2335934,AIRQO_G5286,airqodata02,,[],Unknown
+1241,83,1112704,Dew Point Measurement,mwa0000013947542,,[],Unknown
+1242,83,2300621,AIRQO_G5279,airqodata02,,[],Unknown
+1243,83,2513701,NODE 1,mwa0000033712601,,[],Unknown
+1244,83,2514648,Node 2,mwa0000033711518,,[],Unknown
+1245,83,1031174,Week 5 Redo,mwa0000017592123,,[],Unknown
+1246,84,1031174,Week 5 Redo,mwa0000017592123,,[],Unknown
+1247,84,2510947,Dew Point Measurement,mwa0000033730586,,[],Unknown
+1248,84,2100600,DEW P MEASURE,mwa0000021190424,,[],Unknown
+1249,84,2101109,Dew Point Measurement,mwa0000029080777,,[],Unknown
+1250,84,3051768,Dew Point Measurement,mwa0000038504679,,[],Unknown
+1251,84,1373121,Dew Point Measurement,mwa0000020239875,,[],Unknown
+1252,84,1802310,DataComm,mwa0000026769540,,[],Unknown
+1253,84,3205470,Weather Analysis,mwa0000034369007,,[],Unknown
+1254,84,1461831,dew point measurement,mwa0000015360055,,[],Unknown
+1255,84,2607316,Dew Point Measurement,mwa0000034502971,,[],Unknown
+1256,84,3218921,A_福壽_長效溶氧,mwa0000029068820,,[],Unknown
+1257,84,2051072,Dew Point Measurement,mwa0000028679137,,[],Unknown
+1258,84,2549538,Dew Point Measurement,mwa0000034010491,,[],Unknown
+1259,84,1307405,Dew Point Measurement,mwa0000014094773,,[],Unknown
+1260,84,2977826,A_鑫台_2號機_石斑池,mwa0000029068820,,[],Unknown
+1261,85,1487734,Dew Point Measurement,mwa0000023439160,,[],Unknown
+1262,85,2436695,node1,mwa0000031689349,,[],Unknown
+1263,85,2554324,Dew Point Measurement,mwa0000034048482,,[],Unknown
+1264,85,2337241,AIRQO_G5305,airqodata02,,[],Unknown
+1265,85,1962719,Airqo_G5133,airqodata02,,[],Unknown
+1266,85,1874533,Airqo_G597,airqodata02,,[],Unknown
+1267,85,2159893,AirQo-G5186,airqodata02,,[],Unknown
+1268,85,982271,Dew Point Measurement,chelseapowe,,[],Unknown
+1269,85,2243634,Dew Point Measurement,mwa0000030811125,,[],Unknown
+1270,85,3242307,Dew Point Measurement,mwa0000040289211,,[],Unknown
+1271,85,1265376,Dew Point Measurement,mwa0000020641933,,[],Unknown
+1272,85,1028405,Dew Point Measurement,mwa0000016817193,,[],Unknown
+1273,85,1682710,Dew Point Measurement,mwa0000019416479,,[],Unknown
+1274,85,1028801,Dew Point Measurement,mwa0000017656602,,[],Unknown
+1275,85,596161,tutoriel,simonsimon405,,[],Unknown
+1276,86,596161,tutoriel,simonsimon405,,[],Unknown
+1277,86,2514968,node1,mwa0000033716629,,[],Unknown
+1278,86,1465703,Dew Point Measurement,dhwani0111,,[],Unknown
+1279,86,1677869,Air quality,mwa0000022603318,,[],Unknown
+1280,86,1331164,sudhanshu,sudhanshuag123,,[],Unknown
+1281,86,1549169,Dew Point Measurement,mwa0000024488630,,[],Unknown
+1282,86,2084567,AirQo-G5146,airqodata02,,[],Unknown
+1283,86,893422,Shower Power User View,z5210031,,[],Unknown
+1284,86,2856421,A_漢神國際_彌陀場域2,mwa0000029068820,,[],Unknown
+1285,86,918401,OutDoorTemp,mwa0000016901516,,[],Unknown
+1286,86,2548577,Dew Point Measuement,mwa0000034004485,,[],Unknown
+1287,86,2100591,Dew Point Measurement,mwa0000029814143,,[],Unknown
+1288,86,1267134,Mod10Percobaan2,mwa0000020660979,,[],Unknown
+1289,86,1002531,Dew Point Measurement,mwa0000017644678,,[],Unknown
+1290,86,1028749,Sense HAT,sdang123,,[],Unknown
+1291,87,1028749,Sense HAT,sdang123,,[],Unknown
+1292,87,2292847,AIRQO_G5278,airqodata02,,[],Unknown
+1293,87,1675932,Dew Point Measurement,mwa0000025922571,,[],Unknown
+1294,87,2510664,Dew Point Measurement,mwa0000033712125,,[],Unknown
+1295,87,1217422,DewPointMeasurement,mwa0000019833306,,[],Unknown
+1296,87,2513022,Dew Point Measurement,mwa0000033736703,,[],Unknown
+1297,87,1874740,Airqo_G5100,airqodata02,,[],Unknown
+1298,87,75345,RozdilNapeti,cen123,,[],Unknown
+1299,87,598264,Dew Point Measurement,sulaimisuib,,[],Unknown
+1300,87,2199621,AIRQO-G5244,airqodata02,,[],Unknown
+1301,87,1032731,Dew Point Measurement,mwa0000017789745,,[],Unknown
+1302,87,1800939,Data communication A...,mwa0000022599387,,[],Unknown
+1303,87,622784,Dew Point Measurement,voegepas,,[],Unknown
+1304,87,2100589,Dew Point Measurement,mwa0000029814130,,[],Unknown
+1305,87,3263784,weather station,mwa0000032776727,,[],Unknown
+1306,88,3246341,Dew Point Measurement,mwa0000028983329,,[],Unknown
+1307,88,2067595,Weather Station Plus,IbrahimDayax,,[],Unknown
+1308,88,2511294,Dew Point Measurement,mwa0000033733637,,[],Unknown
+1309,88,2459546,Wondecla Power Gener...,mwa0000029721158,,[],Unknown
+1310,88,1684798,Dew Point Measurement,mwa0000023937247,,[],Unknown
+1311,88,1575537,AirQo_G542,airqodata02,,[],Unknown
+1312,88,2084560,AirQo-G5144,airqodata02,,[],Unknown
+1313,88,1525225,Temperature Measurement,realorlando,,[],Unknown
+1314,88,2199038,Dew Point Measurement,mwa0000030443874,,[],Unknown
+1315,88,2443412,Project 1,mwa0000033095471,,[],Unknown
+1316,88,3096115,Dew Point Measurement,mwa0000039010698,,[],Unknown
+1317,88,3250768,Dew Point Measurement,mwa0000040362607,,[],Unknown
+1318,88,1036485,Dew Point Measurement,mwa0000017762501,,[],Unknown
+1319,88,2417690,Dew Point Measurement,mwa0000027118814,,[],Unknown
+1320,88,1691207,Dew Point Measurement,mwa0000025552833,,[],Unknown
+1321,89,3258329,Dew Point Measuremen...,mwa0000040288992,,[],Unknown
+1322,89,2553047,Dew Point Measurement,mwa0000034038086,,[],Unknown
+1323,89,2940804,SII Testing,anacm1,,[],Unknown
+1324,89,2337227,AIRQO_G5302,airqodata02,,[],Unknown
+1325,89,2457939,Wind and Solar Power...,mwa0000026473284,,[],Unknown
+1326,89,2256224,Temperature,mwa0000030968825,,[],Unknown
+1327,89,2232332,一德放流口,mwa0000029068820,,[],Unknown
+1328,89,2510665,Dew Point Measurement,mwa0000033712658,,[],Unknown
+1329,89,2037837,ProudCeskyDub,mwa0000028812017,,[],Unknown
+1330,89,2872190,A_鑫台_1號機_A1-2,mwa0000029068820,,[],Unknown
+1331,89,2514889,Node2,mwa0000033710090,,[],Unknown
+1332,89,1465702,Dew Point Measurement,mwa0000023445049,,[],Unknown
+1333,89,1265712,Dew Point Meassurement,mwa0000020676739,,[],Unknown
+1334,89,2194209,Dew Point Measurement,SANJAI,,[],Unknown
+1335,89,2515007,NODE2,mwa0000033731155,,[],Unknown
+1336,90,2514528,Node2,mwa0000033729847,,[],Unknown
+1337,90,1002613,Dew Point Measurement,c19350163,,[],Unknown
+1338,90,1003700,Dew Point Measurement,mwa0000017059745,,[],Unknown
+1339,90,3263792,Dew point measurements,mwa0000030079104,,[],Unknown
+1340,90,1699897,Dew Point Measurement,mwa0000024461149,,[],Unknown
+1341,90,1358180,Dew Point Measurement,mwa0000020239886,,[],Unknown
+1342,90,1358199,Dew Point Measurement,mwa0000020239902,,[],Unknown
+1343,90,1465721,Dew Point Measurement,mwa0000023445133,,[],Unknown
+1344,90,3189403,sensor 2,mwa0000035494460,,[],Unknown
+1345,90,2556104,Model Node 1 data,mwa0000034004485,,[],Unknown
+1346,90,1002557,Dew Point Measurement,mwa0000017644881,,[],Unknown
+1347,90,1729383,DEW Points  measurem...,mwa0000014721101,,[],Unknown
+1348,90,2444417,Dew Point Measurement,mwa0000024303555,,[],Unknown
+1349,90,1358188,Dew Point Measurement,mwa0000020239914,,[],Unknown
+1350,90,788395,Linda Maji,AlexanderM96,,[],Unknown
+1351,91,788395,Linda Maji,AlexanderM96,,[],Unknown
+1352,91,1689661,Industrial Temperature,mwa0000025554848,,[],Unknown
+1353,91,890288,e healthcare monitor...,najihahyusri,,[],Unknown
+1354,91,2606002,Dew point measurement,mwa0000034492500,,[],Unknown
+1355,91,2546775,Dew Point Measurement,mwa0000030873489,,[],Unknown
+1356,91,1906006,Dew Point Measurement,mwa0000027807498,,[],Unknown
+1357,91,2975111,Channel 2975111,mwa0000037861933,,[],Unknown
+1358,91,1684933,Dew Point Measurement,mwa0000019368049,,[],Unknown
+1359,91,1034155,Dew Point Measurement,mwa0000017055910,,[],Unknown
+1360,91,2874866,airqo_g5465,airqodata02,,[],Unknown
+1361,91,3138377,Dew Point Measurement,mwa0000038319156,,[],Unknown
+1362,91,2513621,Dew point measurement,mwa0000033752342,,[],Unknown
+1363,91,2084603,AirQo-G5166,airqodata02,,[],Unknown
+1364,91,1265323,6706184117 Praktikum...,mwa0000020641913,,[],Unknown
+1365,91,2513021,Dew Point Measurement,mwa0000033732290,,[],Unknown
+1366,92,1370234,Dew Point Measurement,mwa0000020318265,,[],Unknown
+1367,92,2553060,Dew Point Measurement,mwa0000034038878,,[],Unknown
+1368,92,2510999,Dew Point Measurement,mwa0000033712070,,[],Unknown
+1369,92,1018567,DPM,mwa0000017799575,,[],Unknown
+1370,92,1682639,HW3,mwa0000019416460,,[],Unknown
+1371,92,2198534,AIRQO-G5207,airqodata02,,[],Unknown
+1372,92,2335924,AIRQO_G5284,airqodata02,,[],Unknown
+1373,92,1941671,Dew Point Measure,mwa0000019110388,,[],Unknown
+1374,92,2670993,Dew Point Measurement,mwa0000035204372,,[],Unknown
+1375,92,2793552,Dew Point Measurement,mwa0000036347880,,[],Unknown
+1376,92,686086,channel 1,swarupnath43,,[],Unknown
+1377,92,1752874,Airqo_G579,airqodata02,,[],Unknown
+1378,92,1680633,Dew Point Measurement,mwa0000019794097,,[],Unknown
+1379,92,1752875,Airqo_G580,airqodata02,,[],Unknown
+1380,92,1677325,Dew Point Measurement,anayeligf,,[],Unknown
+1381,93,2266770,AIRQO_G5271,airqodata02,,[],Unknown
+1382,93,1794564,Air Quality Measurem...,mwa0000019065934,,[],Unknown
+1383,93,1003706,Dew Point Measurement,mwa0000017051151,,[],Unknown
+1384,93,620127,dewpoint,terrahlynn35,,[],Unknown
+1385,93,1465719,Dew Point Measurement,mwa0000020331489,,[],Unknown
+1386,93,1003887,Dew Point Measurement,mwa0000017411847,,[],Unknown
+1387,93,2724094,Dew Point Measurement,mwa0000035799363,,[],Unknown
+1388,93,800910,Dew Point Measurement,seizalal,,[],Unknown
+1389,93,2427882,Dew Point Measurement,mwa0000024860114,,[],Unknown
+1390,93,2510764,Dew Point Measurement,mwa0000033730516,,[],Unknown
+1391,93,1002621,Dew Point Measurement,mwa0000017060395,,[],Unknown
+1392,93,2513720,Node 2,mwa0000033710944,,[],Unknown
+1393,93,2511694,node1,mwa0000033736233,,[],Unknown
+1394,93,1465723,Dew point measurement,mwa0000023445124,,[],Unknown
+1395,93,1358289,Dew Point Measurement,mwa0000020318219,,[],Unknown
+1396,94,1358289,Dew Point Measurement,mwa0000020318219,,[],Unknown
+1397,94,1031659,Dew Point Calculation,mwa0000017656403,,[],Unknown
+1398,94,3202540,Channel2,mwa0000034618264,,[],Unknown
+1399,94,2992532,B_愛河灣水質NO3(中正橋),mwa0000029068820,,[],Unknown
+1400,94,1057098,Extras,mwa0000018135078,,[],Unknown
+1401,94,1210619,Dew Point Measurement,mwa0000013221473,,[],Unknown
+1402,94,3269767,LED ON/OFF,mwa0000040506117,,[],Unknown
+1403,94,2421198,Dew Point Measurement,mwa0000021387969,,[],Unknown
+1404,94,1003784,Dew Point Measuremen...,mwa0000017452666,,[],Unknown
+1405,94,2100592,Dew Point Measurement,mwa0000029814142,,[],Unknown
+1406,94,2513713,Node2,mwa0000033712442,,[],Unknown
+1407,94,1003861,Dew Point Measurment,mwa0000016976879,,[],Unknown
+1408,94,1161747,Dew Point Measurement,mwa0000019696403,,[],Unknown
+1409,94,1683953,Dew Point Measurement,mwa0000024423552,,[],Unknown
+1410,94,2419103,Dew Point Measurement,mwa0000025347069,,[],Unknown
+1411,95,2419103,Dew Point Measurement,mwa0000025347069,,[],Unknown
+1412,95,1789485,CO2 on Vapor Pressure,mwa0000023025671,,[],Unknown
+1413,95,1260811,Dew Point Measurement,mwa0000020640722,,[],Unknown
+1414,95,2198758,AIRQO-G5235,airqodata02,,[],Unknown
+1415,95,1266910,Dew Point Measurement,mwa0000020691112,,[],Unknown
+1416,95,2513706,Node 2,mwa0000033733816,,[],Unknown
+1417,95,2607886,Dew Point Measurement,mwa0000034506740,,[],Unknown
+1418,95,1844452,Dew Point Measurement,amraaa,,[],Unknown
+1419,95,2874826,airqo_g5454,airqodata02,,[],Unknown
+1420,95,2512133,Dew point measurement,mwa0000033742478,,[],Unknown
+1421,95,2783819,H_a_r_z_Taupunkt,mwa0000017177247,,[],Unknown
+1422,95,1003859,Dew Point Measurement,mwa0000016988742,,[],Unknown
+1423,95,958775,Dew Point Measurement,mwa0000017023498,,[],Unknown
+1424,95,3269749,LED ON/OFF,mwa0000040506965,,[],Unknown
+1425,95,3202260,Channel 1,mwa0000034618264,,[],Unknown
+1426,96,2511323,Dew point measurement,mwa0000033711518,,[],Unknown
+1427,96,1682609,Dew Point Measurement,mwa0000026026643,,[],Unknown
+1428,96,1744891,load usage monitoring,mwa0000021377548,,[],Unknown
+1429,96,2026072,AirQo-G5137,airqodata02,,[],Unknown
+1430,96,1682627,Dew Point Measurement,mwa0000020997660,,[],Unknown
+1431,96,2631022,MVT_PIR,mwa0000034674285,,[],Unknown
+1432,96,2874891,airqo_g5473,airqodata02,,[],Unknown
+1433,96,1031620,Dew Point Measurement,mwa0000016856614,,[],Unknown
+1434,96,1003867,Dew Point Measurment,mwa0000017656211,,[],Unknown
+1435,96,2583530,Dew Point Measurement,mwa0000034305989,,[],Unknown
+1436,96,615003,Dew Point Measurement,tuliphe,,[],Unknown
+1437,96,1026627,Dew Point Measurement,mwa0000017900692,,[],Unknown
+1438,96,3139659,Dew Measure - 2025 B,mwa0000017294246,,[],Unknown
+1439,96,2472071,Air quality with SDS...,mwa0000026032701,,[],Unknown
+1440,96,1034053,Dew Point Measurement,mwa0000017050450,,[],Unknown
+1441,97,2510713,Dew Point Measurement,mwa0000033708518,,[],Unknown
+1442,97,1709468,Dew Point Measurement,mwa0000021128224,,[],Unknown
+1443,97,2511822,Dew Point Measurement,mwa0000033710688,,[],Unknown
+1444,97,2510952,Dew Point Measurement,mwa0000033730980,,[],Unknown
+1445,97,1035682,Dew Point Measurements,mwa0000017076206,,[],Unknown
+1446,97,1873247,Airqo_G593,airqodata02,,[],Unknown
+1447,97,2874876,airqo_g5467,airqodata02,,[],Unknown
+1448,97,1020164,Dew Point Measurement,mwa0000017817018,,[],Unknown
+1449,97,1365831,ESP32,mwa0000022277474,,[],Unknown
+1450,97,1036045,Dew Point Measurement,mwa0000017653812,,[],Unknown
+1451,97,1347961,RUCHER GRANDIS,Lycabbio,,[],Unknown
+1452,97,624688,Dew Point Measurement,thuydo2510,,[],Unknown
+1453,97,1263877,Dew Point Measurement,mwa0000020660869,,[],Unknown
+1454,97,2850346,Dew Point Measurement,mwa0000030084994,,[],Unknown
+1455,97,2514995,node 2,mwa0000033716629,,[],Unknown
+1456,98,1165927,Dew Point Measurement,mwa0000019768058,,[],Unknown
+1457,98,573883,Makkarin lämpötila,jounikar,,[],Unknown
+1458,98,3269762,LED ON/OFF,mwa0000040506269,,[],Unknown
+1459,98,3258185,Dew Point Measuremen...,mwa0000040213708,,[],Unknown
+1460,98,2943900,Dew Point Measurement,mwa0000037705266,,[],Unknown
+1461,98,2427954,IOT,mwa0000026368607,,[],Unknown
+1462,98,2647276,AIRQO_G5356,airqodata02,,[],Unknown
+1463,98,1951298,GNIEZNO - Łagiewniki...,mwa0000018555385,,[],Unknown
+1464,98,1951302,GNIEZNO - Łagiewniki...,mwa0000018555385,,[],Unknown
+1465,98,711343,Dew Point Measurement,maithili16,,[],Unknown
+1466,98,2963713,airqo_g5503,airqodata02,,[],Unknown
+1467,98,2510940,Dew Point Measurement,mwa0000026682311,,[],Unknown
+1468,98,2874809,airqo_g5450,airqodata02,,[],Unknown
+1469,98,1005100,Temperature Measurem...,mwa0000017664566,,[],Unknown
+1470,98,1027894,Dew Point Measurement,dffaiskhanov,,[],Unknown
+1471,99,1027894,Dew Point Measurement,dffaiskhanov,,[],Unknown
+1472,99,1968575,Dew Point Measurement,mwa0000018624209,,[],Unknown
+1473,99,2513740,Node2,mwa0000033706992,,[],Unknown
+1474,99,2421772,Dew Point Measurement,mwa0000025347294,,[],Unknown
+1475,99,3269755,Temperature measurement,mwa0000031985862,,[],Unknown
+1476,99,1566168,Visu test mkr pile,Lycabbio,,[],Unknown
+1477,99,2743776,Final Exam Dew Point...,mwa0000035902352,,[],Unknown
+1478,99,1033264,Dew Point Measurement,mwa0000017656222,,[],Unknown
+1479,99,1682635,HW2,mwa0000019416460,,[],Unknown
+1480,99,1036436,Dew Point Measurement 2,mwa0000017654096,,[],Unknown
+1481,99,1767534,Dew Point Measurement,mwa0000024593140,,[],Unknown
+1482,99,1679130,Dew Point Measurement,mwa0000019607459,,[],Unknown
+1483,99,1889346,Dew Point Measurement,mwa0000027892173,,[],Unknown
+1484,99,1683946,HW2,mwa0000021362371,,[],Unknown
+1485,99,1680636,Dew Point Calculation,mwa0000021362371,,[],Unknown
